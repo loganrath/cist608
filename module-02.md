@@ -3,12 +3,12 @@ layout: yamlmodule
 title: Module 2: Research Ethics
 dates: August 30 - September 3
 
-module_description: >
-  Note that
+module_description: Description
 
 readings:
   - title: Video from Logan (Module 2)
-    url: #
+    url: https://www.youtube.com
+    icon: play-circle
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
 
   - title: Sheppard, Ch. 2
