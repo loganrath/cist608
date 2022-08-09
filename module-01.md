@@ -14,7 +14,7 @@ readings:
   - title: Sheppard, Ch. 1
     icon: book-open
     url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter1/
-    description: 
+    description:
 
 activities:
   - title: Discussion Board
