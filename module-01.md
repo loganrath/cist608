@@ -27,9 +27,11 @@ readings:
 activities:
   - title: Discussion board prompt
     icon: comments
-    description: Complete Discussion Board \# 1
+    description: Complete Discussion Board # 1
+    due: August 22 @ 11:59pm
 
   - title: activity 2
     description: description for activity 2
+    due: August 22 @ 11:59pm
 
 ---
