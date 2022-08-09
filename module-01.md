@@ -1,6 +1,7 @@
 ---
 layout: yamlmodule
 title: Module 1
+dates: August 22 - August 29
 
 module_description: >
   This is a starting week, so we're going to focus on introductions and learning about social science research.
