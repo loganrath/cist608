@@ -24,9 +24,9 @@
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="" id="courseres" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Course Resources</a>
             <div class="dropdown-menu" aria-labelledby="courseres">
-              <a class="dropdown-item" href="https://libguides.usc.edu/writingguide">USC Writing Guide</a>
-              <a class="dropdown-item" href="https://library.albany.edu">UA Libraries</a>
-              <a class="dropdown-item" href="https://www.albany.edu/writing/">Writing Center</a>
+              {% for resource in site.data.resources %}
+              <a class="dropdown-item" href="{{ resource.url }}">{{ resource.text }}</a>
+              {% endfor %}
             </div>
           </li>
         </ul>
