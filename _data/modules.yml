@@ -1,0 +1,35 @@
+- number: 1
+  title: What is Research?
+  url: /module-01.html
+
+- number: 2
+  title: Ethics in Research
+  url: /module-02.html
+
+- number: 3
+  title: Research Questions
+  url: /module-03.html
+
+- number: 4
+  title: Literature Reviews
+  url: /module-04.html
+
+- number: 5
+  title: Data Collection & Sharing
+  url: /module-05.html
+
+- number: 6
+  title: Quantitative Research & Statistical Tests
+  url: /module-06.html
+
+- number: 7
+  title: Qualitative Research
+  url: /module-07.html
+
+- number: 8
+  title: Methods & Instruments
+  url: /module-08.html
+
+- number: 9
+  title: Writing Up Research
+  url: /module-09.html
