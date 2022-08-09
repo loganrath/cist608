@@ -6,43 +6,11 @@
     </tr>
   </thead>
   <tbody>
+    {% for module in site.data.modules %}
     <tr>
-      {% for module in site.data.modules %}
       <th scope="row">{{module.number}}</th>
       <td><a href="{{module.url}}">{{module.title}}</a></td>
-      {% endfor %}
     </tr>
-    <tr>
-      <th scope="row">2</th>
-      <td>Ethics in Research</td>
-    </tr>
-    <tr>
-      <th scope="row">3</th>
-      <td>Research Questions</td>
-    </tr>
-    <tr>
-      <th scope="row">4</th>
-      <td>Literature Reviews</td>
-    </tr>
-    <tr>
-      <th scope="row">5</th>
-      <td>Data Collection &amp; Sampling</td>
-    </tr>
-    <tr>
-      <th scope="row">6</th>
-      <td>Quantitative Research<br />Statistical Tests</td>
-    </tr>
-    <tr>
-      <th scope="row">7</th>
-      <td>Qualitative Research</td>
-    </tr>
-    <tr>
-      <th scope="row">8</th>
-      <td>Methods &amp; Instruments</td>
-    </tr>
-    <tr>
-      <th scope="row">9</th>
-      <td>Writing Up Research</td>
-    </tr>
+    {% endfor %}
   </tbody>
 </table>
