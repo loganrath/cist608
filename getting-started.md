@@ -35,7 +35,7 @@ activities:
     due: August 26 @ 11:59pm
 
   - title: Quiz
-    icon: fa-clipboard-question fa-success
+    icon: clipboard-question fa-success
     description: Syllabus quiz
     due: August 29 @ 11:59pm
 
