@@ -13,14 +13,7 @@
 <div class="container">
   <div class="row">
   <div class="col-12 col-md-8 col-lg-9 order-md-last">
-		<div class="row">
-			<div class="col-12 col-sm-8">
-    		<h1 class="text-center fw-bold mb-4">{{ page.title}}</h1>
-			</div>
-			<div class="col-12 col-sm-4">
-				<p class="fw-bold my-1"><i class="fa-solid fa-calendar-days me-2"></i>Week of: {{page.dates}}</p>
-			</div>
-		</div>
+    <h1 class="text-center fw-bold mb-4">{{ page.title}}</h1>
     <div class="alert alert-warning">
     {{ page.module_description }}
     </div>
@@ -49,6 +42,7 @@
     </div>
     <div class="col-8 col-md-10">
       <h3>{{ activity.title }}</h3>
+			<p><i class="fa-solid fa-calendar-days me-2 text-primary"></i>Due: {{ activity.due }}</p>
       <p>{{ activity.description }}</p>
     </div>
     </div>
