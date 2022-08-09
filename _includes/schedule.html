@@ -7,8 +7,9 @@
   </thead>
   <tbody>
     <tr>
-      <th scope="row">1</th>
-      <td>What is Research?</td>
+      {% for module in site.data.modules %}
+      <th scope="row">{{module.number}}</th>
+      <td><a href="{{module.url}}">{{module.title}}</a></td>
     </tr>
     <tr>
       <th scope="row">2</th>
