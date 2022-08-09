@@ -9,7 +9,7 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css" integrity="sha512-1sCRPdkRXhBV2PBLUdRb4tMg1w2YPf37qatUFeS7zlBy7jJI8Lf4VHwWfZZfpXtYSLy85pkm9GaYVYMfw5BC1A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 <body>
-  {% include navbar-cist608.html %}
+  {% include navbar.html %}
 <div class="container">
   <div class="row">
   <div class="col-12 col-md-8 col-lg-9 order-md-last">
@@ -51,7 +51,7 @@
   </div>
   <div class="col-12 col-md-4 col-lg-3 order-md-first">
     <div class="list-group w-75 mx-auto">
-    {% for module in site.data.cist608navigation %}
+    {% for module in site.data.navigation %}
     <a href="{{ module.url }}" class="list-group-item list-group-item-action {% if module.url == page.url  %}bg-warning{% endif %}">{{ module.text }}</a>
     {% endfor %}
     </div>
