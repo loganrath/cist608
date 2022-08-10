@@ -1,6 +1,7 @@
 ---
 layout: yamlmodule
-title: Module 2: Research Ethics
+module_number: 2
+title: Research Ethics
 dates: August 30 - September 3
 
 module_description: Description
