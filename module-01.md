@@ -1,10 +1,10 @@
 ---
 layout: yamlmodule
-title: Module 1: What is Research?
+title: Module 1 - What is Research?
 dates: August 22 - August 29
 
-module_description: Test description.
-
+module_description: >
+  This page will tell you all about how to get started
 readings:
   - title: Video from Logan
     icon: play-circle
