@@ -14,12 +14,12 @@ readings:
 
   - title: Sheppard, Ch. 5, "The Literature Review"
     icon: book-open
-    url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter5/
+    url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter-5/
     description: This chapter provides an overview of what is a literature review when it comes to field research.
 
   - title: Sheppard, Ch. 16, "Reading and Understanding Social Research"
     icon: book-open
-    url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter16/
+    url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter-16/
     description: This chapter can help you understand and deconstruct papers that you find through literature searching.
 
   - title: Scribbr, "What is a Literature Review"

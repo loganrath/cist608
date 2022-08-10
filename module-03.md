@@ -14,12 +14,12 @@ readings:
 
   - title: Sheppard, Ch. 3, "Developing a Research Question"
     icon: book-open
-    url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter3/
+    url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter-3/
     description: This chapter covers how to write a research question as well as high level overviews of qualitative versus quantitative research.
 
   - title: Sheppard, Ch. 4, "Measurements and Units of Analysis"
     icon: book-open
-    url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter4/
+    url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter-4/
     description: This chapter covers variables as well as reliability and validity.
 
   - title: DeCarlo, Ch. 8, "Creating and Refining a Research Question"

@@ -14,12 +14,12 @@ readings:
 
   - title: Sheppard, Ch. 2, "Research Ethics"
     icon: book-open
-    url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter2/
+    url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter-2/
     description: Sheppard covers the basics that will prepare you to complete the CITI training.
 
   - title: Sheppard, Ch. 14, "The Research Proposal"
     icon: book-open
-    url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter14/
+    url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter-13-2/
     description: This chapter will give you a general idea of what's involved in your final project.
 
 activities:
