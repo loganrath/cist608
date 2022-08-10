@@ -34,13 +34,13 @@ readings:
 
 activities:
   - title: Discussion Board
-    icon: comments
+    icon: comments text-warning
     url: https://blackboard.albany.edu
     description: Use the discussion forum on Blackboard to post your potential research question. Give feedback to your classmates and integrate their feedback when you submit your research question.
     due: September 9 @ 11:59pm
 
   - title: Research Question
-    icon: person-circle-question
+    icon: file-word
     url: https://blackboard.albany.edu/
     description: Submit the research question you will use for your proposal.
     due: September 12 @ 11:59pm

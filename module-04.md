@@ -40,7 +40,7 @@ activities:
     due: September 16 @ 11:59pm
 
   - title: Model Paper
-    icon: person-circle-question
+    icon: copy text-dark
     url: https://blackboard.albany.edu/
     description: Submit an article you will use as a model for your research proposal.
     due: September 19 @ 11:59pm
