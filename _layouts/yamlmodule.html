@@ -21,15 +21,15 @@
     <div class="row">
     <h2 class="text-center fw-bold">Readings</h2>
       {% for reading in page.readings %}
-      <a class="row my-3" href="{{ reading.url }}" href="_blank">
+      <div class="row my-3">
       <div class="col-4 col-md-2 text-center">
           <i class="fa fa-{{reading.icon}} fa-4x text-primary"></i>
       </div>
       <div class="col-8 col-md-10">
-        <h3 class="h5 fw-bold mb-0">{{ reading.title }}</h3>
+        <h3 class="h5 fw-bold mb-0"><a href="{{ reading.url }}" href="_blank">{{ reading.title }}</a></h3>
         <p>{{ reading.description }}</p>
       </div>
-		</a>
+      </div>
       {% endfor %}
     </div>
 
