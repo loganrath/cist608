@@ -3,8 +3,7 @@ layout: yamlmodule
 title: Module 1: What is Research?
 dates: August 22 - August 29
 
-module_description: >
-  This module helps us understand the difference between field research and library research.
+module_description: Test description.
 
 readings:
   - title: Video from Logan
