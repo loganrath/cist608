@@ -27,11 +27,12 @@ activities:
     icon: clipboard-question text-dark
     url: https://www.albany.edu/orrc/irb-training.php
     description: This certificate is required by UA in order to complete human subjects research. There are several modules with quizzes at each. <strong>Upload your certificate to Blackboard</strong>.
-    due: September 3 @ 11:59pm
+    due: September 4 @ 11:59pm
 
   - title: Ask Questions
     icon: person-circle-question
     url: https://blackboard.albany.edu/
     description: Please ask me any questions you have about the research proposal assignment.
+    due: September 4 @ 11:59pm
 
 ---
