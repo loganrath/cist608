@@ -1,6 +1,7 @@
 ---
 layout: yamlmodule
-title: Module 1 - What is Research?
+module_number: 1
+title: What is Research?
 dates: August 22 - August 29
 
 module_description: >

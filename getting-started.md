@@ -1,5 +1,6 @@
 ---
 layout: yamlmodule
+module_number: 0
 title: Getting Started
 dates: August 22 - August 29
 
