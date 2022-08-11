@@ -7,10 +7,12 @@ p ol ul li, a, * {font-family: "Public Sans", sans-serif;}
 .bg-purple {background-color: #46166b;}
 .bg-yellow {background-color: #eeb211;}
 .bg-grey50 {background-color: #808080;}
-
 .text-purple {color: #46166b;}
 .text-yellow {color: #eeb211;}
 .text-grey50 {color: #808080;}
+
+.bg-info {background-color: #287bb5;}
+.text-info {color: #287bb5;}
 
 a:link {text-decoration: none;}
 a:hover {text-decoration: underline;}
