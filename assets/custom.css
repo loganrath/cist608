@@ -5,10 +5,10 @@ h1, h2, h3, h4, h5, h6 {font-weight: bold; font-family: "Public Sans", sans-seri
 p ol ul li, a, * {font-family: "Public Sans", sans-serif;}
 
 .bg-purple {background-color: #46166b;}
-.bg-yellow {background-color: #eeb211;}
+.bg-gold {background-color: #eeb211;}
 .bg-grey50 {background-color: #808080;}
 .text-purple {color: #46166b;}
-.text-yellow {color: #eeb211;}
+.text-gold {color: #eeb211;}
 .text-grey50 {color: #808080;}
 
 .bg-teal {background-color: #287bb5;}
