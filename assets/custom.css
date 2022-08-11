@@ -11,8 +11,8 @@ p ol ul li, a, * {font-family: "Public Sans", sans-serif;}
 .text-yellow {color: #eeb211;}
 .text-grey50 {color: #808080;}
 
-.bg-info {background-color: #287bb5;}
-.text-info {color: #287bb5;}
+.bg-teal {background-color: #287bb5;}
+.text-teal {color: #287bb5;}
 
 a:link {text-decoration: none;}
 a:hover {text-decoration: underline;}
