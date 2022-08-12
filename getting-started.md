@@ -24,19 +24,21 @@ readings:
     description: Contains a schedule of what's due each week.
 
   - title: Proposal Instructions
-    icon: file-word text-primary
+    icon: file-word text-teal
     url: https://docs.google.com/document/d/19vChbF47TK24FKFcFaEnfuZqqhN9PJHtNVPvYoLSTOQ/export?format=pdf
     description: This document explains the proposal project that is worth 60% of your final grade in this course.
 
 
 activities:
   - title: Introductions Discussion Board
-    icon: comments
+    icon: comments text-gold
+    url: https://blackboard.albany.edu
     description: Go to Blackboard and complete the introductions discussion board.
     due: August 26 @ 11:59pm
 
   - title: Quiz
-    icon: clipboard-question fa-success
+    icon: clipboard-question text-purple
+    url: https://blackboard.albany.edu
     description: Syllabus quiz
     due: August 29 @ 11:59pm
 
