@@ -8,17 +8,17 @@ module_description: Writing a literature review is an essential component of any
 
 readings:
   - title: Video from Logan (Module 4)
-    url: https://www.youtube.com
+    url:
     icon: play-circle text-success
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
 
   - title: Sheppard, Ch. 5, "The Literature Review"
-    icon: book-open
+    icon: book-open text-purple
     url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter-5/
     description: This chapter provides an overview of what is a literature review when it comes to field research.
 
   - title: Sheppard, Ch. 16, "Reading and Understanding Social Research"
-    icon: book-open
+    icon: book-open text-purple
     url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter-16/
     description: This chapter can help you understand and deconstruct papers that you find through literature searching.
 
