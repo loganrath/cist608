@@ -14,7 +14,7 @@ readings:
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
 
   - title: Sheppard, Ch. 1
-    icon: book-open
+    icon: book-atlas text-purple
     url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter1/
     description: This chapter introduces much of terminology that you will need for this class. In addition to these definitions, this chapter covers research paradigms that are essential to understanding the ontological underpinnings of field research.
 

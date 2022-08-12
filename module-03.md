@@ -13,22 +13,22 @@ readings:
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
 
   - title: Sheppard, Ch. 3, "Developing a Research Question"
-    icon: book-open
+    icon: book-atlas text-purple
     url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter-3/
     description: This chapter covers how to write a research question as well as high level overviews of qualitative versus quantitative research.
 
   - title: Sheppard, Ch. 4, "Measurements and Units of Analysis"
-    icon: book-open
+    icon: book-atlas text-purple
     url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter-4/
     description: This chapter covers variables as well as reliability and validity.
 
   - title: DeCarlo, Ch. 8, "Creating and Refining a Research Question"
-    icon: book-open
+    icon: book-atlas text-purple
     url: https://scientificinquiryinsocialwork.pressbooks.com/chapter/8-0-chapter-introduction/
     description: DeCarlo provides an overview of writing a good research question <strong><em>with some specific tips and critiques</em></strong> as well as explanations that augment Sheppard's content.
 
   - title: Scribbr, "Developing Strong Research Questions"
-    icon: file-image
+    icon: file-image text-primary
     url: https://www.scribbr.com/research-process/research-questions/
     description: This page provides practical advice on how to write a research question. Definitely watch the 4.5 minute video. There is also a quiz to check for understanding that I strongly recommend. <em>Note:</em> Scribbr offers paid editing services, but this course is only using their free content.
 
