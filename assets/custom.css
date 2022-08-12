@@ -14,5 +14,7 @@ p ol ul li, a, * {font-family: "Public Sans", sans-serif;}
 .bg-teal {background-color: #287bb5;}
 .text-teal {color: #287bb5;}
 
+.navbar .bg-purple > a.nav-link {color: #fff !important!}
+
 a:link {text-decoration: none;}
 a:hover {text-decoration: underline;}
