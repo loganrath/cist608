@@ -40,7 +40,7 @@ activities:
     due: September 19 @ 11:59pm
 
   - title: Group Literature searching
-    icon: users text-success
+    icon: users text-teal
     description: Work in your groups to help each other find the best literature.
     due: September 16 @ 11:59pm
 
