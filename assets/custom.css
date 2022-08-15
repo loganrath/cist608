@@ -15,7 +15,9 @@ p ol ul li, a, * {font-family: "Public Sans", sans-serif;}
 .text-teal {color: #287bb5;}
 
 a.nav-link {color: #fff}
-a.nav-link:hover, a.dropdown-item:hover {color: #eeb211;}
+a.nav-link:hover {color: #eeb211;}
+
+a.dropdown-item:hover {background-color:#46166b; color:#eeb211;}
 
 a:link {text-decoration: none;}
 a:hover {text-decoration: underline;}
