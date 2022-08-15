@@ -7,7 +7,7 @@ dates: September 13 - 19
 module_description: Writing a literature review is an essential component of any research proposal. This module will prepare you to complete one major section of your proposal.
 
 readings:
-  - title: Video from Logan (Module 4)
+  - title: Video from Logan (Module {{ page.module_number }})
     url:
     icon: play-circle text-success
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
