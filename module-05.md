@@ -4,7 +4,7 @@ module_number: 5
 title: Data Collection & Sharing
 dates:
 
-module_description: Writing a literature review is an essential component of any research proposal. This module will prepare you to complete one major section of your proposal.
+module_description: 
 
 readings:
   - title: Video from Logan (Module {{ page.module_number }})

@@ -1,10 +1,10 @@
 ---
 layout: notready
 module_number: 6
-title: Quantiative Research & Statistical Tests
+title: Quantitative Research & Statistical Tests
 dates:
 
-module_description: Writing a literature review is an essential component of any research proposal. This module will prepare you to complete one major section of your proposal.
+module_description: 
 
 readings:
   - title: Video from Logan (Module {{ page.module_number }})
