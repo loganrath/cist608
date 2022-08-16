@@ -21,12 +21,17 @@ readings:
   - title: Kankam, P.K. (2017). The use of paradigms in information research. <em>Library &amp; Information Science Research, 41</em>(2), 85-92.
     icon: file-pdf text-danger
     url: https://search.library.albany.edu/permalink/01SUNY_ALB/1gnucdc/cdi_proquest_journals_2261241084
-    description: This specific to information science research. Compare and contrast between
+    description: This specific to information science research, read this article to learn what the different paradigms look like in information science.
 
   - title: Kivunja, C. &amp; Kuyini, A.B. (2017). Understanding and apply research paradigms in educational contexts. <em>International Journal of Higher Education, 6</em>(5), 26-41.
     icon: file-pdf text-danger
     url: https://files.eric.ed.gov/fulltext/EJ1154775.pdf
-    description: Under each paradigm, the authors provide criteria for evaluating research.
+    description: Skim this one. Under each paradigm, the authors provide criteria for evaluating research.
+
+  - title: Ma, & Lund, B. (2021). The evolution and shift of research topics and methods in library and information science. <em>Journal of the Association for Information Science and Technology, 72</em>(8), 1059–1074. <a target="_blank" href="https://doi.org/10.1002/asi.24474">https://doi.org/10.1002/asi.24474</a>
+    icon: file-pdf text-danger
+    url:  https://search.library.albany.edu/permalink/01SUNY_ALB/1gnucdc/cdi_wiley_primary_10_1002_asi_24474_ASI24474
+    description: Skim this article. This recent paper took a look the topics of research studies from LIS articles. 
 
 activities:
   - title: Discussion Board
