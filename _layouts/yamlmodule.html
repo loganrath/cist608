@@ -23,9 +23,9 @@
           <i class="fa fa-{{reading.icon}} fa-4x"></i>
       </div>
       <div class="col-8 col-md-10">
-				{% if reading.url != nil %}
+				{% if reading.url %}
         <h3 class="h5 fw-bold mb-0"><a href="{{ reading.url }}" target="_blank">{{ reading.title }}</a></h3>
-				{% elsif %}
+				{% else %}
 				<h3 class="h5 fw-bold mb-0">{{ reading.title }}</h3>
 				{% endif %}
         <p>{{ reading.description }}</p>
