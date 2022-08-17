@@ -8,7 +8,7 @@ module_description: Ethics are important to make sure that we do not harm partic
 
 readings:
   - title: Video from Logan (Module 2)
-    url: https://www.youtube.com
+    url:
     icon: play-circle text-success
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
 

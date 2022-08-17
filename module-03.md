@@ -8,7 +8,7 @@ module_description: This module will cover the basics of developing a research q
 
 readings:
   - title: Video from Logan (Module 3)
-    url: https://www.youtube.com
+    url:
     icon: play-circle text-success
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
 
