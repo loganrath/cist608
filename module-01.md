@@ -8,7 +8,7 @@ module_description: >
   For this first module you will learn what research is as well as why research projects are carried out in specific ways, based on the underlying beliefs of the researchers.
 
 readings:
-  - title: Video from Logan (Module {{ page.module_number }})
+  - title: Video from Logan (Module {{module_number}})
     icon: play-circle text-success
     url: https://www.youtube.com
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
@@ -31,7 +31,7 @@ readings:
   - title: Ma, & Lund, B. (2021). The evolution and shift of research topics and methods in library and information science. <em>Journal of the Association for Information Science and Technology, 72</em>(8), 1059–1074. <a target="_blank" href="https://doi.org/10.1002/asi.24474">https://doi.org/10.1002/asi.24474</a>
     icon: file-pdf text-danger
     url:  https://search.library.albany.edu/permalink/01SUNY_ALB/1gnucdc/cdi_wiley_primary_10_1002_asi_24474_ASI24474
-    description: Skim this article. This recent paper took a look the topics of research studies from LIS articles. 
+    description: Skim this article. This recent paper took a look the topics of research studies from LIS articles.
 
 activities:
   - title: Discussion Board
