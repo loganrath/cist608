@@ -4,7 +4,7 @@ module_number: 5
 title: Data Collection & Sharing
 dates:
 
-module_description: 
+module_description:
 
 readings:
   - title: Video from Logan (Module {{ page.module_number }})

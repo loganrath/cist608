@@ -7,13 +7,13 @@ dates: September 13 - 19
 module_description: Writing a literature review is an essential component of any research proposal. This module will prepare you to complete one major section of your proposal.
 
 readings:
-  - title: Video from Logan (Module {{ page.module_number }})
+  - title: Video from Logan (Module 4)
     url:
     icon: play-circle text-success
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
 
   - title: Sheppard, Ch. 5, "The Literature Review"
-    icon: book-altas text-purple
+    icon: book-atlas text-purple
     url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter-5/
     description: This chapter provides an overview of what is a literature review when it comes to field research.
 

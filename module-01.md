@@ -8,7 +8,7 @@ module_description: >
   For this first module you will learn what research is as well as why research projects are carried out in specific ways, based on the underlying beliefs of the researchers.
 
 readings:
-  - title: Video from Logan (Module {{module_number}})
+  - title: Video from Logan (Module 1)
     icon: play-circle text-success
     url: https://www.youtube.com
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
