@@ -26,7 +26,7 @@ readings:
 
 activities:
   - title: Introduction Flip
-    icon: comments text-gold
+    icon: video text-gold
     url: https://flip.com
     description: Flip allows you to record a brief video message. You will need the invite/code that has been sent to your UA email in order to access the software. I have limited the introduction board to 3 minutes. You will need the join code sent to your email. Here are some <a href="https://help.flip.com/hc/en-us/articles/360051542894-Getting-Started-Members" target="_blank">instructions from Flip on how to get started.</a>
     due: August 26 @ 11:59pm
