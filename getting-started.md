@@ -5,27 +5,22 @@ title: Getting Started
 dates: August 22 - August 29
 
 module_description: >
-  This page will tell you all about how to get started
+  This module will introduce you to the course expectations and major assignment.
 
 readings:
   - title: Introduction Video from Logan
     icon: circle-play text-success
-    url: https://youtube.com/
+    url:
     description: This video will introduce you to me
 
   - title: Syllabus
     icon: file-pdf text-danger
-    url: https://docs.google.com/document/d/19vChbF47TK24FKFcFaEnfuZqqhN9PJHtNVPvYoLSTOQ/export?format=pdf
-    description: Contains course information, grading, and policies.
-
-  - title: Schedule
-    icon: file-pdf text-danger
-    url: https://docs.google.com/document/d/19vChbF47TK24FKFcFaEnfuZqqhN9PJHtNVPvYoLSTOQ/export?format=pdf
-    description: Contains a schedule of what's due each week.
+    url:
+    description: Contains course information, schedule, grading, and policies.
 
   - title: Proposal Instructions
     icon: file-word text-teal
-    url: https://docs.google.com/document/d/19vChbF47TK24FKFcFaEnfuZqqhN9PJHtNVPvYoLSTOQ/export?format=pdf
+    url:
     description: This document explains the proposal project that is worth 60% of your final grade in this course.
 
 
