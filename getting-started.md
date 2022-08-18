@@ -5,7 +5,7 @@ title: Getting Started
 dates: August 22 - August 29
 
 module_description: >
-  This module will introduce you to the course expectations and major assignment.
+  This module will introduce you to the course expectations and major assignment. Links will be updated when they are available.
 
 readings:
   - title: Introduction Video from Logan
@@ -25,16 +25,16 @@ readings:
 
 
 activities:
-  - title: Introductions Discussion Board
+  - title: Introduction Flip
     icon: comments text-gold
-    url: https://blackboard.albany.edu
-    description: Go to Blackboard and complete the introductions discussion board.
+    url: https://flip.com
+    description: Flip allows you to record a brief video message. You will need the invite/code that has been sent to your UA email in order to access the software. I have limited the introduction board to 3 minutes. You will need the join code sent to your email.
     due: August 26 @ 11:59pm
 
   - title: Quiz
     icon: clipboard-question text-purple
-    url: https://blackboard.albany.edu
-    description: Syllabus quiz
-    due: August 29 @ 11:59pm
+    url:
+    description: There will be a basic quiz via Blackboard for you to complete.
+    due: August 26 @ 11:59pm
 
 ---
