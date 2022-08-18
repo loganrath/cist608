@@ -1,13 +1,13 @@
 ---
 layout: notready
-module_number: 9
-title: Unobtrusive Research
+module_number: 10
+title: Writing Up Research
 dates:
 
 module_description:
 
 readings:
-  - title: Video from Logan (Module 9)
+  - title: Video from Logan (Module {{ page.module_number }})
     url:
     icon: play-circle text-success
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
