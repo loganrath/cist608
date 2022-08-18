@@ -14,7 +14,7 @@
             <a class="nav-link dropdown-toggle" href="" id="modulesside" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Modules</a>
             <div class="dropdown-menu" aria-labelledby="modulesside">
               {% for module in site.data.modules %}
-              <a class="dropdown-item" href="{{ module.url }}" title="{{module.title}}">Module {{ module.number }}</a>
+              <a class="dropdown-item" href="{{ module.url }}" title="{{module.title}}">Module {{ module.number }}<br /><strong>{{ module.title }}</strong></a>
               {% endfor %}
             </div>
           </li>
