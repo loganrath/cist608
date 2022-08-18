@@ -10,6 +10,7 @@ module_description: >
 readings:
   - title: Video from Logan (Module 1)
     icon: play-circle text-success
+    url: 
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
 
   - title: Sheppard, Ch. 1

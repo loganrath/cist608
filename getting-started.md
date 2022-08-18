@@ -11,7 +11,7 @@ readings:
   - title: Introduction Video from Logan
     icon: circle-play text-success
     url:
-    description: This video will introduce you to me
+    description: This video will introduce you to the course and my expectations.
 
   - title: Syllabus
     icon: file-pdf text-danger
