@@ -10,7 +10,7 @@ module_description: >
 readings:
   - title: Video from Logan (Module 1)
     icon: play-circle text-success
-    url: 
+    url:
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
 
   - title: Sheppard, Ch. 1
@@ -36,7 +36,7 @@ readings:
 activities:
   - title: Discussion Board
     due: August 29 @ 11:59pm
-    url: https://blackboard.albany.edu
+    url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_170260_1&nav=discussion_board_entry&conf_id=_276906_1&forum_id=_590089_1
     icon: comments text-warning
     description: Participate in this week's discussion board where you will tell us which research paradigm most resonates with you and why. See Blackboard for more specifics.
 
