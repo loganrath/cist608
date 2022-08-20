@@ -38,6 +38,6 @@ activities:
     due: August 29 @ 11:59pm
     url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_170260_1&nav=discussion_board_entry&conf_id=_276906_1&forum_id=_590089_1
     icon: comments text-warning
-    description: Participate in this week's discussion board where you will tell us which research paradigm most resonates with you and why. See Blackboard for more specifics.
+    description: Participate in this week's discussion board where you will tell us which research paradigm most resonates with you and why. Respond to your classmates noting similarities and differences. Elaborate on how that might effect any potential collaboration.
 
 ---
