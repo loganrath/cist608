@@ -15,12 +15,12 @@ readings:
 
   - title: Syllabus
     icon: file-pdf text-danger
-    url:
+    url: https://livealbany-my.sharepoint.com/:b:/g/personal/lrath_albany_edu/ER5RCh1is8pMrIpqnmWghQ0B9UvrsrQ_cWfB7FoHbczrlg?e=BXIASf
     description: Contains course information, schedule, grading, and policies.
 
   - title: Proposal Instructions
-    icon: file-word text-teal
-    url:
+    icon: file-pdf text-danger
+    url: https://livealbany-my.sharepoint.com/:b:/g/personal/lrath_albany_edu/EVxeEKuLWOBAor3Kuh2K2y4BmJZ-CpGNg5vvSe2GDKOBHw?e=2MGHTk
     description: This document explains the proposal project that is worth 60% of your final grade in this course.
 
 
