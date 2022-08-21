@@ -10,7 +10,7 @@ module_description: >
 readings:
   - title: Introduction Video from Logan
     icon: circle-play text-success
-    url:
+    url: https://youtu.be/3vMTW8skhJE
     description: This video will introduce you to the course and my expectations.
 
   - title: Syllabus (as of 08/21/22)
