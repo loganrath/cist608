@@ -23,6 +23,11 @@ readings:
     url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter1/
     description: This chapter introduces much of terminology that you will need for this class. In addition to these definitions, this chapter covers research paradigms that are essential to understanding the ontological underpinnings of field research.
 
+  - title: "Chapter 1 of Bhattacherjee, A. (2019). <em>Social science research: Principles, methods, and practices</em> (Revised edition)."
+    icon: book-atlas text-purple
+    url:  https://usq.pressbooks.pub/socialscienceresearch/chapter/chapter-1-science-and-scientific-research/
+    description: OPTIONAL reading (not very long). Bhattacherjee provides some useful information about the role of research in science.
+
   - title: Kankam, P.K. (2017). The use of paradigms in information research. <em>Library &amp; Information Science Research, 41</em>(2), 85-92.
     icon: file-pdf text-danger
     url: https://search.library.albany.edu/permalink/01SUNY_ALB/1gnucdc/cdi_proquest_journals_2261241084
@@ -31,18 +36,12 @@ readings:
   - title: Kivunja, C. &amp; Kuyini, A.B. (2017). Understanding and apply research paradigms in educational contexts. <em>International Journal of Higher Education, 6</em>(5), 26-41.
     icon: file-pdf text-danger
     url: https://files.eric.ed.gov/fulltext/EJ1154775.pdf
-    description: Skim this one. Under each paradigm, the authors provide criteria for evaluating research.
+    description: Skim this article. Under each paradigm, the authors provide criteria for evaluating research.
 
   - title: Ma, & Lund, B. (2021). The evolution and shift of research topics and methods in library and information science. <em>Journal of the Association for Information Science and Technology, 72</em>(8), 1059–1074. <a target="_blank" href="https://doi.org/10.1002/asi.24474">https://doi.org/10.1002/asi.24474</a>
     icon: file-pdf text-danger
     url:  https://search.library.albany.edu/permalink/01SUNY_ALB/1gnucdc/cdi_wiley_primary_10_1002_asi_24474_ASI24474
     description: Skim this article. This recent paper took a look the topics of research studies from LIS articles.
-
-  - title: "Bhattacherjee, A. (2019). <em>Social science research: Principles, methods, and practices</em> (Revised edition)."
-    icon: book-atlas text-purple
-    url:  https://usq.pressbooks.pub/socialscienceresearch/chapter/chapter-1-science-and-scientific-research/
-    description: OPTIONAL reading (not very long). Bhattacherjee provides some useful information about the role of research in Science.
-
 
 activities:
   - title: Discussion Board
