@@ -16,7 +16,7 @@ readings:
   - title: Slides for Module 1
     icon: file-pdf text-danger
     url: https://livealbany-my.sharepoint.com/:b:/g/personal/lrath_albany_edu/EXTqftVBjWdPvbTxAP54vcQB28JaBnT6ety0MRkSQ-cdMQ?e=IhhDgn
-    description: Slides from my video. 
+    description: Slides from my video.
 
   - title: Sheppard, Ch. 1
     icon: book-atlas text-purple
@@ -38,11 +38,16 @@ readings:
     url:  https://search.library.albany.edu/permalink/01SUNY_ALB/1gnucdc/cdi_wiley_primary_10_1002_asi_24474_ASI24474
     description: Skim this article. This recent paper took a look the topics of research studies from LIS articles.
 
+  - title: Bhattacherjee, A. (2019). <em>Social science research: Principles, methods, and practices</em> (Revised edition).
+    icon: book-atlas
+    url: https://usq.pressbooks.pub/socialscienceresearch/chapter/chapter-1-science-and-scientific-research/
+    description: OPTIONAL reading (not very long). Bhattacherjee provides some useful information about the role of research in Science.
+
 activities:
   - title: Discussion Board
     due: August 29 @ 11:59pm
     url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_170260_1&nav=discussion_board_entry&conf_id=_276906_1&forum_id=_590089_1
     icon: comments text-warning
-    description: Participate in this week's discussion board where you will tell us which research paradigm most resonates with you and why. Respond to your classmates noting similarities and differences. Elaborate on how that might effect any potential collaboration.
+    description: Participate in this week's discussion board where you will tell us which research paradigm most resonates with you and why. Respond to your classmates noting similarities and differences. Elaborate on how that might effect any potential collaboration. You may start a second thread asking any questions you have about the readings.
 
 ---
