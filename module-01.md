@@ -1,5 +1,5 @@
 ---
-layout: yamlmodule2
+layout: yamlmodule
 module_number: 1
 title: What is Research?
 dates: August 22 - August 29
@@ -39,7 +39,7 @@ supplementary:
     url:  https://usq.pressbooks.pub/socialscienceresearch/chapter/chapter-1-science-and-scientific-research/
     description: Bhattacherjee provides some useful information about the role of research in Science.
 
-  - title: "Ma, J. & Lund, B. (2021). The evolution and shift of research topics and methods in library and information science. <em>Journal of the Association for Information Science and Technology, 72</em>(8), 1059–1074. <a target="_blank" href="https://doi.org/10.1002/asi.24474">https://doi.org/10.1002/asi.24474</a>"
+  - title: Ma, J. & Lund, B. (2021). The evolution and shift of research topics and methods in library and information science. <em>Journal of the Association for Information Science and Technology, 72</em>(8), 1059–1074. <a target="_blank" href="https://doi.org/10.1002/asi.24474">https://doi.org/10.1002/asi.24474</a>
     icon: file-pdf text-danger
     url:  https://search.library.albany.edu/permalink/01SUNY_ALB/1gnucdc/cdi_wiley_primary_10_1002_asi_24474_ASI24474
     description: Skim this article. This recent paper took a look the topics of research studies from LIS articles.
