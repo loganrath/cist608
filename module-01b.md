@@ -38,7 +38,7 @@ readings:
     url:  https://search.library.albany.edu/permalink/01SUNY_ALB/1gnucdc/cdi_wiley_primary_10_1002_asi_24474_ASI24474
     description: Skim this article. This recent paper took a look the topics of research studies from LIS articles.
 
-additional:
+supplementary:
   - title: "Bhattacherjee, A. (2019). <em>Social science research: Principles, methods, and practices</em> (Revised edition)."
     icon: book-atlas text-purple
     url:  https://usq.pressbooks.pub/socialscienceresearch/chapter/chapter-1-science-and-scientific-research/
