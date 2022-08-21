@@ -13,6 +13,11 @@ readings:
     url:
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
 
+  - title: Slides for Module 1
+    icon: file-pdf text-danger
+    url: https://livealbany-my.sharepoint.com/:b:/g/personal/lrath_albany_edu/EXTqftVBjWdPvbTxAP54vcQB28JaBnT6ety0MRkSQ-cdMQ?e=IhhDgn
+    description: Slides from my video. 
+
   - title: Sheppard, Ch. 1
     icon: book-atlas text-purple
     url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter1/
