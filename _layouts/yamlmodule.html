@@ -35,7 +35,7 @@
     </div>
 
 {% if page.supplementary %}
-		<div class="row">
+		<div class="row mt-3">
     <h3 class="text-center fw-bold">Supplementary Readings</h3>
 		<p>These readings are optional but will give you more context.</p>
       {% for reading in page.supplementary %}
@@ -56,7 +56,7 @@
     </div>
 {% endif %}
 
-    <div class="row">
+    <div class="row mt-3">
     <h2 class="text-center fw-bold">Activities</h2>
     {% for activity in page.activities %}
     <div class="row mt-3">
@@ -73,7 +73,7 @@
     </div>
 
 		<div class="row">
-		<p class="small text-end">Site last updated {{ 'now' | date: "%b. %d, %Y" }}.</p>
+		<p class="small text-end text-muted">Site last updated {{ 'now' | date: "%b. %d, %Y" }}.</p>
 		</div>
 
   </div>
