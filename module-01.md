@@ -8,10 +8,15 @@ module_description: >
   For this first module you will learn what research is as well as why research projects are carried out in specific ways, based on the underlying beliefs of the researchers.
 
 readings:
-  - title: Video from Logan (Module 1)
+  - title: Video from Logan (Module 1) (2:38)
     icon: play-circle text-success
-    url:
-    description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
+    url: https://youtu.be/TPQDYzarcWA
+    description: This is a quick video that explains how the module is organized.
+
+  - title: Lecture for Module 1 (15:38)
+    icon: play-circle text-success
+    url: https://youtu.be/1bVMWIEmzMs
+    description: This is an overview video where I give a high level explanation of the readings.
 
   - title: Slides for Module 1
     icon: file-pdf text-danger
@@ -37,7 +42,7 @@ supplementary:
   - title: "Bhattacherjee, A. (2019). <em>Social science research: Principles, methods, and practices</em> (Revised edition)."
     icon: book-atlas text-purple
     url:  https://usq.pressbooks.pub/socialscienceresearch/chapter/chapter-1-science-and-scientific-research/
-    description: Bhattacherjee provides some useful information about the role of research in Science.
+    description: Bhattacherjee provides some useful information about the role of research in science.
 
   - title: Ma, J. & Lund, B. (2021). The evolution and shift of research topics and methods in library and information science. <em>Journal of the Association for Information Science and Technology, 72</em>(8), 1059–1074. <a target="_blank" href="https://doi.org/10.1002/asi.24474">https://doi.org/10.1002/asi.24474</a>
     icon: file-pdf text-danger
