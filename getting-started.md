@@ -8,7 +8,7 @@ module_description: >
   This module will introduce you to the course expectations and major assignment. Links will be updated when they are available.
 
 readings:
-  - title: Introduction Video from Logan (14:18)
+  - title: Introduction Video from Logan (14:19)
     icon: circle-play text-success
     url: https://youtu.be/3vMTW8skhJE
     description: This video will introduce you to the course and my expectations.
