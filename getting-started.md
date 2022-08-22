@@ -33,7 +33,7 @@ activities:
 
   - title: Quiz
     icon: clipboard-question text-purple
-    url:
+    url: https://blackboard.albany.edu/webapps/blackboard/content/launchAssessment.jsp?course_id=_170260_1&content_id=_7400670_1
     description: There will be a basic quiz via Blackboard for you to complete.
     due: August 26 @ 11:59pm
 
