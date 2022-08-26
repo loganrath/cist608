@@ -52,7 +52,7 @@ activities:
 
   - title: Ask Questions
     icon: person-circle-question text-teal
-    url: https://blackboard.albany.edu/
+    url: https://blackboard.albany.edu/webapps/assignment/uploadAssignment?content_id=_7436521_1&course_id=_170260_1&group_id=&mode=view
     description: Please ask me any questions you have about the research proposal assignment.
     due: September 4 @ 11:59pm
 
