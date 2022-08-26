@@ -4,7 +4,7 @@ module_number: 4
 title: Literature Reviews
 dates: September 13 - 19
 
-module_description: Writing a literature review is an essential component of any research proposal. This module will prepare you to complete one major section of your proposal.
+module_description: <div class="alert alert-info">This module is still under construction.</div>Writing a literature review is an essential component of any research proposal. This module will prepare you to complete one major section of your proposal.
 
 readings:
   - title: Video from Logan (Module 4)
