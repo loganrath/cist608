@@ -7,7 +7,7 @@ dates: August 30 - September 3
 module_description: <div class="alert alert-info">This module is still under construction.</div>Ethics are important to make sure that we do not harm participants. Ethics covers content such as safety, privacy, confidentiality, and respect for participants.
 
 readings:
-  - title: Video from Logan (Module 2)
+  - title: Video from Logan (Module 2) (4:31)
     url: https://youtu.be/VsjeFvsTDIY
     icon: play-circle text-success
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
