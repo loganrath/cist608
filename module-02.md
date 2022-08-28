@@ -17,6 +17,11 @@ readings:
     icon: play-circle text-success
     description: This video gives an overview of research ethics and the IRB process.
 
+  - title: Slides for Module 2
+    icon: file-pdf text-danger
+    url: https://livealbany-my.sharepoint.com/:b:/g/personal/lrath_albany_edu/EWbhtDgrBmZOtLheMm_TYD0BGWmz3XFvPfkWMlmJw-PHzg?e=DtNyny
+    description: PDF of the slides from the lecture
+
   - title: Sheppard, Ch. 14, "The Research Proposal"
     icon: book-atlas text-purple
     url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter-13-2/
