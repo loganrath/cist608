@@ -8,7 +8,7 @@ module_description: <div class="alert alert-info">This module is still under con
 
 readings:
   - title: Video from Logan (Module 2)
-    url:
+    url: https://youtu.be/VsjeFvsTDIY
     icon: play-circle text-success
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
 
@@ -63,7 +63,7 @@ activities:
   - title: Ask Questions
     icon: person-circle-question text-teal
     url: https://blackboard.albany.edu/webapps/assignment/uploadAssignment?content_id=_7436521_1&course_id=_170260_1&group_id=&mode=view
-    description: Please ask me any questions you have about the research proposal assignment.
+    description: Please ask me any questions you have about the <a href="https://livealbany-my.sharepoint.com/:b:/g/personal/lrath_albany_edu/EVxeEKuLWOBAor3Kuh2K2y4BmJZ-CpGNg5vvSe2GDKOBHw?e=AJ9odl" target="_blank">research proposal assignment</a>.
     due: September 4 @ 11:59pm
 
 ---
