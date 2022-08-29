@@ -63,7 +63,7 @@ activities:
   - title: Ask Questions
     icon: person-circle-question text-teal
     url: https://blackboard.albany.edu/webapps/assignment/uploadAssignment?content_id=_7436521_1&course_id=_170260_1&group_id=&mode=view
-    description: Please ask me any questions you have about the <a href="https://livealbany-my.sharepoint.com/:b:/g/personal/lrath_albany_edu/EVxeEKuLWOBAor3Kuh2K2y4BmJZ-CpGNg5vvSe2GDKOBHw?e=AJ9odl" target="_blank">research proposal assignment</a>.
+    description: Please email me (or post to the <a href="https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_170260_1&nav=discussion_board_entry&conf_id=_276906_1&forum_id=_583025_1" target="_blank">Ask a Question discussion board</a>) any questions you have about the research proposal assignment.
     due: September 4 @ 11:59pm
 
 ---

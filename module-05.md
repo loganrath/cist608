@@ -4,7 +4,7 @@ module_number: 5
 title: Data Collection & Sampling
 dates:
 
-module_description: <div class="alert alert-info">This module is still under construction.</div>Understanding variables, choosing Data collection and sampling are key to well done research studies.
+module_description: <div class="alert alert-info">This module is still under construction.</div>Understanding variables, choosing appropriate methods to collect data are key to well done research studies.
 
 readings:
   - title: Video from Logan (Module 5)
