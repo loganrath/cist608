@@ -1,5 +1,5 @@
 ---
-layout: notready
+layout: yamlmodule
 module_number: 5
 title: Data Collection & Sampling
 dates:
@@ -15,17 +15,17 @@ readings:
   - title: Lecture for Module 5
     url:
     icon: play-circle text-success
-    description: This
-
-  - title: Sheppard, Ch. 4, "Measurements and Units of Analysis"
-    icon: book-atlas text-purple
-    url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter-4/
-    description: This chapter covers variables as well as reliability and validity.
+    description:
 
   - title: Sheppard, Ch. 6, "Data Collection Strategies"
     icon: book-altas text-purple
     url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/76-2/
     description: Covers experimental, quasi-experimental and non-experimental designs.
+
+  - title: Introduction to sampling distributions | Sampling distributions | AP Statistics | Khan Academy
+    icon: youtube text-danger
+    url: https://www.youtube.com/watch?v=z0Ry_3_qhDw
+    description: Kahn academy video that explains sampling in a visual way.
 
   - title: Bhattacherjee, Ch. 8, "Sampling"
     icon: book-atlas text-purple

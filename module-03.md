@@ -32,6 +32,13 @@ readings:
     url: https://www.scribbr.com/research-process/research-questions/
     description: This page provides practical advice on how to write a research question. Definitely watch the 4.5 minute video. There is also a quiz to check for understanding that I strongly recommend. <em>Note:</em> Scribbr offers paid editing services, but this course is only using their free content.
 
+supplementary:
+  - title: Bhattacherjee, Ch. 6, "Measurement of Constructs"
+    icon: book-atlas text-purple
+    url: https://usq.pressbooks.pub/socialscienceresearch/chapter/chapter-6-measurement-of-constructs/
+    description: Provides a thorough walkthrough of variable types and scales.
+
+
 activities:
   - title: Discussion Board
     icon: comments text-warning
