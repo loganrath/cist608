@@ -18,12 +18,12 @@ readings:
     description:
 
   - title: Sheppard, Ch. 6, "Data Collection Strategies"
-    icon: book-altas text-purple
+    icon: book-atlas text-purple
     url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/76-2/
     description: Covers experimental, quasi-experimental and non-experimental designs.
 
   - title: Introduction to sampling distributions | Sampling distributions | AP Statistics | Khan Academy
-    icon: youtube text-danger
+    icon: brands fa-youtube text-danger
     url: https://www.youtube.com/watch?v=z0Ry_3_qhDw
     description: Kahn academy video that explains sampling in a visual way.
 
