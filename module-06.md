@@ -4,7 +4,7 @@ module_number: 6
 title: Quantitative Research & Statistical Tests
 dates:
 
-module_description: 
+module_description:
 
 readings:
   - title: Video from Logan (Module {{ page.module_number }})
@@ -12,25 +12,28 @@ readings:
     icon: play-circle text-success
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
 
-  - title: Sheppard, Ch. 5, "The Literature Review"
+  - title: Sheppard, Ch. 8, "Data Collection Methods: Survey Research"
     icon: book-altas text-purple
-    url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter-5/
-    description: This chapter provides an overview of what is a literature review when it comes to field research.
+    url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter-8-data-collection-methods-survey-research/
+    description:
 
-  - title: Sheppard, Ch. 16, "Reading and Understanding Social Research"
+  - title: DeCarlo, Ch. 11, "Survey Research"
     icon: book-atlas text-purple
-    url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter-16/
-    description: This chapter can help you understand and deconstruct papers that you find through literature searching.
+    url: https://scientificinquiryinsocialwork.pressbooks.com/chapter/11-0-chapter-introduction/
+    description:
 
-  - title: Scribbr, "What is a Literature Review"
-    icon: play-circle text-success
-    url: https://www.youtube.com/watch?v=KkAnKGuX7fs&feature=emb_logo
-    description: This video provides an excellent explanation of a literature review. The video also provides tips and tricks to help you complete your assignment.
+  - title: Sheppard, Ch. 9, "Analysis of Survey Data"
+    icon: book-atlas text-purple
+    url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter-9-analysis-of-survey-data/
+    description:
 
-  - title: Randolph, J. (2009) A guide to writing the dissertation literature review. <em>Practical Assessment, Research, and Evaluation 14</em>, Article 13. https://doi.org/10.7275/b0az-8t74
-    icon: file-pdf text-danger
-    url: https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1219&context=pare
-    description: This optional reading may provide more context and specific methods for completing a literature review. Tables 2 and 3 provide excellent graphical organizers if that is helpful for you.
+  - title: Scribbr, Choosing the Right Statistical Tests
+    icon: link-horizontal
+    url: https://www.scribbr.com/statistics/statistical-tests/
+    description: A quick reference for choosing the right statistical test.
+
+
+
 
 activities:
   - title: Librarian Activities

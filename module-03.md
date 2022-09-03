@@ -12,6 +12,11 @@ readings:
     icon: play-circle text-success
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
 
+  - title: Scribbr. (2020). <em>How to develop a strong research question</em> [Video]. YouTube. https://www.youtube.com/watch?v=71-GucBaM8U
+    url: https://www.youtube.com/watch?v=71-GucBaM8U
+    icon: brands fa-youtube text-danger
+    description: Video from Scribbr that will help you narrow create a research question. This does not speak specifically about your proposal, but the advice is still great.
+
   - title: Sheppard, Ch. 3, "Developing a Research Question"
     icon: book-atlas text-purple
     url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter-3/
@@ -42,13 +47,13 @@ supplementary:
 activities:
   - title: Discussion Board
     icon: comments text-warning
-    url: https://blackboard.albany.edu
-    description: Use the discussion forum on Blackboard to post your potential research question. Give feedback to your classmates and integrate their feedback when you submit your research question.
-    due: September 9 @ 11:59pm
+    url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_170260_1&nav=discussion_board_entry&conf_id=_276906_1&forum_id=_593112_1
+    description: Use this forum to share and give feedback on one another's research question. Title your post with your research question and in the body of your post ask for any specific feedback you would like from your peers. Give feedback to your classmates and integrate their feedback when you submit your research question.
+    due: September 10 @ 11:59pm
 
   - title: Research Question
     icon: file-word
-    url: https://blackboard.albany.edu/
+    url: https://blackboard.albany.edu/webapps/assignment/uploadAssignment?content_id=_7449478_1&course_id=_170260_1&group_id=&mode=view
     description: Submit the research question you will use for your proposal.
     due: September 12 @ 11:59pm
 
