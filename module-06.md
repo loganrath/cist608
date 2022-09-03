@@ -4,11 +4,10 @@ module_number: 6
 title: Quantitative Research & Statistical Tests
 dates:
 
-module_description:
+module_description: <div class="alert alert-info">This module is still under construction.</div>
 
 readings:
-  - title: Video from Logan (Module {{ page.module_number }})
-    url:
+  - title: Video from Logan (Module 6)
     icon: play-circle text-success
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
 
@@ -32,31 +31,11 @@ readings:
     url: https://www.scribbr.com/statistics/statistical-tests/
     description: A quick reference for choosing the right statistical test.
 
-
-
-
 activities:
   - title: Librarian Activities
     icon: building-columns text-warning
     url: https://library.albany.edu
     description: Please complete the module from the librarian.
-    due: September 19 @ 11:59pm
-
-  - title: Group Literature searching
-    icon: users text-teal
-    description: Work in your groups to help each other find the best literature.
-    due: September 16 @ 11:59pm
-
-  - title: Model Paper
-    icon: copy text-dark
-    url: https://blackboard.albany.edu/
-    description: Submit an article you will use as a model for your research proposal.
-    due: September 19 @ 11:59pm
-
-  - title: Annotated Bibliography
-    icon: file-word
-    url: https://blackboard.albany.edu/
-    description: Submit an annotated bibliography from your literature searching. For each source paste in the abstract and then type 2-3 sentences explaining how the supportsyour research question.
     due: September 19 @ 11:59pm
 
 ---
