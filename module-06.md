@@ -11,20 +11,20 @@ readings:
     icon: play-circle text-success
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
 
-  - title: Sheppard, Ch. 8, "Data Collection Methods: Survey Research"
+  - title: Sheppard, Ch. 8, "Data Collection Methods Survey Research"
     icon: book-altas text-purple
     url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter-8-data-collection-methods-survey-research/
-    description:
+    description: 1
 
   - title: DeCarlo, Ch. 11, "Survey Research"
     icon: book-atlas text-purple
     url: https://scientificinquiryinsocialwork.pressbooks.com/chapter/11-0-chapter-introduction/
-    description:
+    description: 1
 
   - title: Sheppard, Ch. 9, "Analysis of Survey Data"
     icon: book-atlas text-purple
     url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter-9-analysis-of-survey-data/
-    description:
+    description: 1
 
   - title: Scribbr, Choosing the Right Statistical Tests
     icon: link-horizontal
