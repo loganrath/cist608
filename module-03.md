@@ -33,7 +33,7 @@ readings:
     description: DeCarlo provides an overview of writing a good research question <strong><em>with some specific tips and critiques</em></strong> as well as explanations that augment Sheppard's content.
 
   - title: Scribbr, "Developing Strong Research Questions"
-    icon: link-horizontal text-primary
+    icon: link text-primary
     url: https://www.scribbr.com/research-process/research-questions/
     description: This page provides practical advice on how to write a research question. Definitely watch the 4.5 minute video. There is also a quiz to check for understanding that I strongly recommend. <em>Note:</em> Scribbr offers paid editing services, but this course is only using their free content.
 
