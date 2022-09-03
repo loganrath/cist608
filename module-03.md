@@ -12,11 +12,6 @@ readings:
     icon: play-circle text-success
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
 
-  - title: Scribbr. (2020). <em>How to develop a strong research question</em> [Video]. YouTube. https://www.youtube.com/watch?v=71-GucBaM8U
-    url: https://www.youtube.com/watch?v=71-GucBaM8U
-    icon: brands fa-youtube text-danger
-    description: Video from Scribbr that will help you narrow create a research question. This does not speak specifically about your proposal, but the advice is still great.
-
   - title: Sheppard, Ch. 3, "Developing a Research Question"
     icon: book-atlas text-purple
     url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter-3/
