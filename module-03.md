@@ -12,6 +12,16 @@ readings:
     icon: play-circle text-success
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
 
+  - title: Lecture for Module 3 (3:37)
+    url: https://youtu.be/hgqhfT6VXgs
+    icon: play-circle text-success
+    description: This video gives a quick overview of how to write a research question. Please also watch the video by Scribbr.
+
+  - title: Slides for Module 3
+    url: https://livealbany-my.sharepoint.com/:b:/g/personal/lrath_albany_edu/EY5JgJ-w3RREnPgRAWZEQIQBVANxCNWkH82366eNqYBr1Q?e=L3lcxj
+    icon: file-pdf text-danger
+    description: Slides from the Lecture for Module 3
+
   - title: Sheppard, Ch. 3, "Developing a Research Question"
     icon: book-atlas text-purple
     url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter-3/
