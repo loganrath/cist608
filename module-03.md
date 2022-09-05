@@ -4,11 +4,11 @@ module_number: 3
 title: Research Questions
 dates: September 6 - 12
 
-module_description: <div class="alert alert-info">This module is still under construction.</div>This module will cover the basics of developing a research question that will guide your proposal creation for the rest of the semester.
+module_description: This module will cover the basics of developing a research question that will guide your proposal creation for the rest of the semester.
 
 readings:
   - title: Video from Logan (Module 3)
-    url:
+    url: https://www.youtube.com/watch?v=yg2faJxlnXA
     icon: play-circle text-success
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
 
