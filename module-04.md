@@ -22,10 +22,10 @@ readings:
     icon: play-circle text-success
     description: Dr. Rath's overview of the annotated bibliography assignment.
 
-  - title: Slides for Lecture
-    url:
+  - title: Slides for Module 4 Lectures
+    url: https://livealbany-my.sharepoint.com/:b:/g/personal/lrath_albany_edu/EcUyLGNZblFHgzVDLHs01ssBUkVutOLygLJLV0OurG8Vvg?e=OEgRQj
     icon: file-pdf text-danger
-    description: Slides from the lecture for Module 4.
+    description: Slides from the lectures for Module 4 combined into one PDF.
 
   - title: Sheppard, Ch. 5, "The Literature Review"
     icon: book-atlas text-purple
