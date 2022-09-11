@@ -12,6 +12,21 @@ readings:
     icon: play-circle text-success
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
 
+  - title: Lecture for Module 4 - Literature Reviews
+    url:
+    icon: play-circle text-success
+    description: Dr. Rath's overview of a literature review.
+
+  - title: Lecture for Module 4 - Annotated Bibliography
+    url:
+    icon: play-circle text-success
+    description: Dr. Rath's overview of the annotated bibliography assignment.
+
+  - title: Slides for Lecture
+    url:
+    icon: file-pdf text-danger
+    description: Slides from the lecture for Module 4.
+
   - title: Sheppard, Ch. 5, "The Literature Review"
     icon: book-atlas text-purple
     url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter-5/
@@ -32,12 +47,22 @@ readings:
     url: https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1219&context=pare
     description: This optional reading may provide more context and specific methods for completing a literature review. Tables 2 and 3 provide excellent graphical organizers if that is helpful for you.
 
+supplementary:
+  - title: UNC Writing Center's Annotated Bibliographies Tips
+    icon: link text-primary
+    url: https://writingcenter.unc.edu/tips-and-tools/annotated-bibliographies/
+    description: Helpful writing tips & tricks, but specific to UNC
+
+  - title: USC Writing Center, The Literature Review
+    icon: link text-primary
+    url: https://libguides.usc.edu/writingguide/literaturereview
+    description: A helpful overview of a literature review for the social sciences.
+
 activities:
-  - title: Librarian Activities
-    icon: building-columns text-warning
-    url: https://library.albany.edu
-    description: Please complete the module from the librarian.
-    due: September 19 @ 11:59pm
+  - title: Tips & Tricks from Abby Adams (15:28)
+    icon: play-circle text-success
+    url: https://youtu.be/Xe2JcP4szZw
+    description: Please watch this video from Abby Adams, our subject librarian!
 
   - title: Group Literature searching
     icon: users text-teal
@@ -53,7 +78,7 @@ activities:
   - title: Annotated Bibliography
     icon: file-word
     url: https://blackboard.albany.edu/
-    description: Submit an annotated bibliography from your literature searching. For each source paste in the abstract and then type 2-3 sentences explaining how the supportsyour research question.
+    description: Submit an annotated bibliography (see video above) from your literature searching. For each source paste in the abstract and then type 2-3 sentences explaining how the supports your research question.
     due: September 19 @ 11:59pm
 
 ---
