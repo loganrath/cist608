@@ -72,13 +72,13 @@ activities:
 
   - title: Model Paper
     icon: copy text-dark
-    url: https://blackboard.albany.edu/
+    url: https://blackboard.albany.edu/webapps/assignment/uploadAssignment?content_id=_7458960_1&course_id=_170260_1
     description: Submit an article you will use as a model for your research proposal.
     due: September 19 @ 11:59pm
 
   - title: Annotated Bibliography
     icon: file-word
-    url: https://blackboard.albany.edu/
+    url: https://blackboard.albany.edu/webapps/assignment/uploadAssignment?content_id=_7458959_1&course_id=_170260_1
     description: Submit an annotated bibliography (see video above) from your literature searching. For each source paste in the abstract and then type 2-3 sentences explaining how the supports your research question.
     due: September 19 @ 11:59pm
 
