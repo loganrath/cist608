@@ -4,11 +4,11 @@ module_number: 4
 title: Literature Reviews
 dates: September 13 - 19
 
-module_description: <div class="alert alert-info">This module is still under construction.</div>Writing a literature review is an essential component of any research proposal. This module will prepare you to complete one major section of your proposal.
+module_description: Writing a literature review is an essential component of any research proposal. This module will prepare you to complete one major section of your proposal.
 
 readings:
   - title: Video from Logan (Module 4)
-    url:
+    url: https://youtu.be/2gUbHSsFe78
     icon: play-circle text-success
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
 
@@ -63,6 +63,12 @@ activities:
     icon: play-circle text-success
     url: https://youtu.be/Xe2JcP4szZw
     description: Please watch this video from Abby Adams, our subject librarian!
+    due: September 14 @ 11:59pm
+
+  - title: Searching and Sharing Hints from Logan (4:24)
+    icon: play-circle text-success
+    url: https://youtu.be/Xca8f-GEy_0
+    description: Watch this video for my hints on searching and sharing (EBSCO permalinks and some tips for MS Word)
     due: September 14 @ 11:59pm
 
   - title: Group Literature searching
