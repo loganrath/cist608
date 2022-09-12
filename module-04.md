@@ -37,7 +37,7 @@ readings:
     url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter-16/
     description: This chapter can help you understand and deconstruct papers that you find through literature searching.
 
-  - title: Scribbr, "What is a Literature Review"
+  - title: Scribbr, "What is a Literature Review" (1:39)
     icon: play-circle text-success
     url: https://www.youtube.com/watch?v=KkAnKGuX7fs&feature=emb_logo
     description: This video provides an excellent explanation of a literature review. The video also provides tips and tricks to help you complete your assignment.
