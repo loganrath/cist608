@@ -67,6 +67,7 @@ activities:
 
   - title: Group Literature searching
     icon: users text-teal
+    url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_170260_1&nav=discussion_board_entry&conf_id=_276906_1&forum_id=_593654_1
     description: Work in your groups to help each other find the best literature.
     due: September 16 @ 11:59pm
 
