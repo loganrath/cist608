@@ -42,12 +42,12 @@ readings:
     url: https://www.youtube.com/watch?v=KkAnKGuX7fs&feature=emb_logo
     description: This video provides an excellent explanation of a literature review. The video also provides tips and tricks to help you complete your assignment.
 
+supplementary:
   - title: Randolph, J. (2009) A guide to writing the dissertation literature review. <em>Practical Assessment, Research, and Evaluation 14</em>, Article 13. https://doi.org/10.7275/b0az-8t74
     icon: file-pdf text-danger
     url: https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1219&context=pare
     description: This optional reading may provide more context and specific methods for completing a literature review. Tables 2 and 3 provide excellent graphical organizers if that is helpful for you.
 
-supplementary:
   - title: UNC Writing Center's Annotated Bibliographies Tips
     icon: link text-primary
     url: https://writingcenter.unc.edu/tips-and-tools/annotated-bibliographies/
