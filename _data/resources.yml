@@ -1,8 +1,17 @@
 - text: USC Writing Guide
-  url: https://libguides.usc.edu/writingguide"
+  url: https://libguides.usc.edu/writingguide
 
-- text: UA Libraries
+- text: APAStyle
+  url: https://apastyle.apa.org/
+
+- text: Scribbr APA Formatting
+  url: https://www.scribbr.com/apa-style/format/
+
+- text: Excelsior OWL APA style
+  url: https://owl.excelsior.edu/citation-and-documentation/apa-style/
+
+- text: UAlbany Libraries
   url: https://library.albany.edu
 
-- text: Writing Center
+- text: UAlbany Writing Center
   url: https://www.albany.edu/writing/
