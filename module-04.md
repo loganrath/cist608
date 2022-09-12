@@ -12,18 +12,18 @@ readings:
     icon: play-circle text-success
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
 
-  - title: Lecture for Module 4 - Literature Reviews
-    url:
+  - title: Lecture for Module 4 - Literature Reviews (3:37)
+    url: https://youtu.be/wuzJ0G5Mo_I
     icon: play-circle text-success
     description: Dr. Rath's overview of a literature review.
 
-  - title: Lecture for Module 4 - Annotated Bibliography
-    url:
+  - title: Lecture for Module 4 - Annotated Bibliography (2:01)
+    url: https://youtu.be/RWAMBC24VNA
     icon: play-circle text-success
     description: Dr. Rath's overview of the annotated bibliography assignment.
 
   - title: Slides for Module 4 Lectures
-    url: https://livealbany-my.sharepoint.com/:b:/g/personal/lrath_albany_edu/EcUyLGNZblFHgzVDLHs01ssBUkVutOLygLJLV0OurG8Vvg?e=OEgRQj
+    url: https://livealbany-my.sharepoint.com/:b:/g/personal/lrath_albany_edu/EcUyLGNZblFHgzVDLHs01ssBUkVutOLygLJLV0OurG8Vvg?e=2gOyUc
     icon: file-pdf text-danger
     description: Slides from the lectures for Module 4 combined into one PDF.
 
@@ -63,6 +63,7 @@ activities:
     icon: play-circle text-success
     url: https://youtu.be/Xe2JcP4szZw
     description: Please watch this video from Abby Adams, our subject librarian!
+    due: September 14 @ 11:59pm
 
   - title: Group Literature searching
     icon: users text-teal
