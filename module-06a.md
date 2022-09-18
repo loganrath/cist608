@@ -4,7 +4,7 @@ module_number: 6
 title: Quantitative Research & Statistical Tests
 dates:
 
-module_description: <div class="alert alert-info">This module is still under construction.</div> This module covers basic statistical tests and quantitative research.
+module_description: <div class="alert alert-info">This module is still under construction.</div> This module lasts two weeks and covers basic quantitative research and basic statistical tests.
 
 readings:
   - title: Video from Logan (Module 6)
@@ -34,6 +34,17 @@ readings:
     icon: link-horizontal
     url: https://www.scribbr.com/statistics/statistical-tests/
     description: A quick reference for choosing the right statistical test.
+
+supplementary:
+  - title: Bhattacherjee, Ch. 14, "Quantitative Analysis: Descriptive statistics"
+    icon: book-atlas text-purple
+    url: https://usq.pressbooks.pub/socialscienceresearch/chapter/chapter-14-quantitative-analysis-descriptive-statistics/
+    description: Looks at describing a quantitative dataset.
+
+  - title: Bhattacherjee, Ch. 15, "Quantitative Analysis: Inferential statistics"
+    icon: book-atlas text-purple
+    url: https://usq.pressbooks.pub/socialscienceresearch/chapter/chapter-15-quantitative-analysis-inferential-statistics/
+    description: Looks at making inferences from a quantitative dataset.
 
 activities:
   - title: Excel Activity
