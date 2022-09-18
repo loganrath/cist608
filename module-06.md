@@ -76,18 +76,34 @@ supplementary:
     description: How to run a t-test in Excel with just a formula!
 
 activities:
+  - title: Peer Review of Introduction &amp; Literature Review
+    icon: pen-facy text-purple
+    url: https://blackboard.albany.edu
+    description: You will swap drafts with one other student and they will provide you peer feedback on the draft of your introduction and literature review.
+    due: October 11 @ 11:59pm
+
   - title: Walkthrough for Descriptive Statistics Activity
     icon: play-circle text-success
     url:
     description: Video walkthrough of the activity with a different data set.
+    due: October 17 @ 11:59pm
 
   - title: "Descriptive Statistics in Excel Using the Data Analysis Tool (5:35)"
     icon: brands fa-youtube text-danger
     url: https://www.youtube.com/watch?v=pfYhwy3wN14
     description: A quick way to get descriptive statistics in Excel. Includes installation instructions for Windows PCs.
+    due: October 17 @ 11:59pm
 
   - title: "Descriptive Statistics Activity"
     icon: file-excel text-success
     url: https://blackboard.albany.edu/webapps/blackboard/content/launchAssessment.jsp?course_id=_170260_1&content_id=_7464564_1
     description: Please calculate the sum, mean, median and mode for each column in the spreadsheet.
+    due: October 17 @ 11:59pm
+
+  - title: Final Draft of Introduction &amp; Literature Review
+    icon: file-word text-primary
+    url: https://blackboard.albany.edu
+    description: Submit the final draft of your introduction and literature review on blackboard
+    due: October 17 @ 11:59pm
+
 ---
