@@ -45,7 +45,7 @@ readings:
     description: A quick reference for choosing the right statistical test.
 
 supplementary:
-  - title: Teach Me Statistics in Half an Hour (42:08)
+  - title: "Teach Me Statistics in Half an Hour (42:08)"
     icon: brands fa-youtube text-danger
     url: https://www.youtube.com/watch?v=kyjlxsLW1Is
     description: A great video that covers all of the basic statistical content you'll need in 42 minutes.
