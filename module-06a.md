@@ -15,7 +15,7 @@ readings:
     icon: file-pdf text-danger
     description: These are the slides for Module 6.
 
-  - title: Sheppard, Ch. 8, "Data Collection Methods Survey Research"
+  - title: Sheppard, Ch. 8, "Data Collection Methods&colon; Survey Research"
     icon: book-atlas text-purple
     url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter-8-data-collection-methods-survey-research/
     description: 1
