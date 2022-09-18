@@ -37,6 +37,11 @@ readings:
     url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter-7-sampling-techniques/
     description: This chapter can help you understand how to choose an accurate sample and provides different ways of explaining the same content as Bhattacherjee's chapter.
 
+supplementary:
+  - title: DeCarlo, Ch. 12, "Experimental Design"
+    icon: book-atlas text-purple
+    url: https://scientificinquiryinsocialwork.pressbooks.com/chapter/12-0-chapter-introduction/
+    description: Stop at 12.3. Provides a nice glossary of terms (12.1) and a great description of internal and external validity (12.3)
 
 activities:
   - title: Discussion Board

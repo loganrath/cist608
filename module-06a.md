@@ -19,20 +19,30 @@ readings:
     icon: file-pdf text-danger
     description: These are the slides for Module 6.
 
-  - title: Sheppard, Ch. 8, "Data Collection Methods&colon; Survey Research"
-    icon: book-atlas text-purple
-    url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter-8-data-collection-methods-survey-research/
-    description: Includes considerations for choosing and using a survey. Pay special attention to wording of questions and answers as described in 8.6 and 8.7
-
   - title: DeCarlo, Ch. 11, "Survey Research"
     icon: book-atlas text-purple
     url: https://scientificinquiryinsocialwork.pressbooks.com/chapter/11-0-chapter-introduction/
     description: Very similar to Sheppard's chapter.
 
+  - title: Sheppard, Ch. 8, "Data Collection Methods&colon; Survey Research"
+    icon: book-atlas text-purple
+    url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter-8-data-collection-methods-survey-research/
+    description: Includes considerations for choosing and using a survey. Pay special attention to wording of questions and answers as described in 8.6 and 8.7
+
   - title: Sheppard, Ch. 9, "Analysis of Survey Data"
     icon: book-atlas text-purple
     url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter-9-analysis-of-survey-data/
     description: A brief introduction to quantitative data
+
+  - title: DeCarlo, 12.4 "Analyzing Quantitative Data"
+    icon: book-atlas text-purple
+    url: https://scientificinquiryinsocialwork.pressbooks.com/chapter/12-4-analyzing-quantitative-data/
+    description: Provides great definitions and description of major vocabulary terms.
+
+  - title: Sheppard, Ch. 11, "Quantitative Interview Techniques &amp; Considerations"
+    icon: book-atlas text-purple
+    url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter-11/
+    description: Explains a quantitative interview. Specifically pay attention to 11.4 on issues to consider when conducting an interview.
 
   - title: "Statistics made easy ! ! ! Learn about the t-test, the chi square test, the p value and more (12:49)"
     icon: brands fa-youtube text-danger
