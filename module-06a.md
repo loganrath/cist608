@@ -36,12 +36,12 @@ readings:
     description: A quick reference for choosing the right statistical test.
 
 supplementary:
-  - title: Bhattacherjee, Ch. 14, "Quantitative Analysis: Descriptive statistics"
+  - title: Bhattacherjee, Ch. 14, "Quantitative Analysis&colon; Descriptive statistics"
     icon: book-atlas text-purple
     url: https://usq.pressbooks.pub/socialscienceresearch/chapter/chapter-14-quantitative-analysis-descriptive-statistics/
     description: Looks at describing a quantitative dataset.
 
-  - title: Bhattacherjee, Ch. 15, "Quantitative Analysis: Inferential statistics"
+  - title: Bhattacherjee, Ch. 15, "Quantitative Analysis&colon; Inferential statistics"
     icon: book-atlas text-purple
     url: https://usq.pressbooks.pub/socialscienceresearch/chapter/chapter-15-quantitative-analysis-inferential-statistics/
     description: Looks at making inferences from a quantitative dataset.
