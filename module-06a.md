@@ -11,7 +11,11 @@ readings:
     icon: play-circle text-success
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
 
-  - title: Video from Logan (Module 6)
+  - title: Lecture for Module 6
+    icon: play-circle text-success
+    description: This video covers variables, the null hypothesis, and how to choose the right test.
+
+  - title: Slides for Module 6
     icon: file-pdf text-danger
     description: These are the slides for Module 6.
 
@@ -67,7 +71,12 @@ supplementary:
     description: A quick way to get descriptive statistics in Excel
 
 activities:
-  - title: "Descriptive Statistics Activity Test Canvas: Descriptive Statistics Activity"
+  - title: Walkthrough for Descriptive Statistics Activity
+    icon: play-circle text-success
+    url:
+    description: Video walkthrough of the activity with a different data set.
+
+  - title: "Descriptive Statistics Activity"
     icon: file-excel text-success
     url: https://blackboard.albany.edu/webapps/blackboard/content/launchAssessment.jsp?course_id=_170260_1&content_id=_7464564_1
     description: Please calculate the sum, mean, median and mode for each column in the spreadsheet.
