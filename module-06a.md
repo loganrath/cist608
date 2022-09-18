@@ -31,7 +31,7 @@ readings:
     description: 1
 
   - title: Scribbr, Choosing the Right Statistical Tests
-    icon: link-horizontal
+    icon: link
     url: https://www.scribbr.com/statistics/statistical-tests/
     description: A quick reference for choosing the right statistical test.
 
