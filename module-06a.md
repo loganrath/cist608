@@ -19,7 +19,7 @@ readings:
     icon: file-pdf text-danger
     description: These are the slides for Module 6.
 
-  - title: "Statistics made easy ! ! ! Learn about the t-test, the chi square test, the p value and more" (12:49)
+  - title: "Statistics made easy ! ! ! Learn about the t-test, the chi square test, the p value and more (12:49)"
     icon: brands fa-youtube text-danger
     url: https://www.youtube.com/watch?v=I10q6fjPxJ0
     description: A great video that uses height and weight and shows several different tests.
