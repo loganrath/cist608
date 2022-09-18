@@ -27,7 +27,7 @@ readings:
   - title: DeCarlo, Ch. 11, "Survey Research"
     icon: book-atlas text-purple
     url: https://scientificinquiryinsocialwork.pressbooks.com/chapter/11-0-chapter-introduction/
-    description: Very similar to Sheppard's chapter. 
+    description: Very similar to Sheppard's chapter.
 
   - title: Sheppard, Ch. 9, "Analysis of Survey Data"
     icon: book-atlas text-purple
@@ -40,7 +40,7 @@ readings:
     description: A great video that uses height and weight and shows several different tests.
 
   - title: Scribbr, Choosing the Right Statistical Tests
-    icon: link
+    icon: link text-primary
     url: https://www.scribbr.com/statistics/statistical-tests/
     description: A quick reference for choosing the right statistical test.
 
