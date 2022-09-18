@@ -77,7 +77,7 @@ supplementary:
 
 activities:
   - title: Peer Review of Introduction &amp; Literature Review
-    icon: pen-facy text-purple
+    icon: pen-fancy text-purple
     url: https://blackboard.albany.edu
     description: You will swap drafts with one other student and they will provide you peer feedback on the draft of your introduction and literature review.
     due: October 11 @ 11:59pm

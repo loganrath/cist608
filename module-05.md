@@ -15,7 +15,7 @@ readings:
   - title: Lecture for Module 5
     url:
     icon: play-circle text-success
-    description:
+    description: This is an overview of sampling.
 
   - title: Sheppard, Ch. 6, "Data Collection Strategies"
     icon: book-atlas text-purple
@@ -45,7 +45,7 @@ supplementary:
 
 activities:
   - title: Discussion Board
-    icon: building-columns text-warning
+    icon: comments text-warning
     url: https://blackboard.albany.edu
     description: Post any questions you have about variables and sampling to the discussion board.
     due: September 26 @ 11:59pm
