@@ -19,25 +19,25 @@ readings:
     icon: file-pdf text-danger
     description: These are the slides for Module 6.
 
-  - title: "Statistics made easy ! ! ! Learn about the t-test, the chi square test, the p value and more (12:49)"
-    icon: brands fa-youtube text-danger
-    url: https://www.youtube.com/watch?v=I10q6fjPxJ0
-    description: A great video that uses height and weight and shows several different tests.
-
   - title: Sheppard, Ch. 8, "Data Collection Methods&colon; Survey Research"
     icon: book-atlas text-purple
     url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter-8-data-collection-methods-survey-research/
-    description: 1
+    description: Includes considerations for choosing and using a survey. Pay special attention to wording of questions and answers as described in 8.6 and 8.7
 
   - title: DeCarlo, Ch. 11, "Survey Research"
     icon: book-atlas text-purple
     url: https://scientificinquiryinsocialwork.pressbooks.com/chapter/11-0-chapter-introduction/
-    description: 1
+    description: Very similar to Sheppard's chapter. 
 
   - title: Sheppard, Ch. 9, "Analysis of Survey Data"
     icon: book-atlas text-purple
     url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter-9-analysis-of-survey-data/
-    description: 1
+    description: A brief introduction to quantitative data
+
+  - title: "Statistics made easy ! ! ! Learn about the t-test, the chi square test, the p value and more (12:49)"
+    icon: brands fa-youtube text-danger
+    url: https://www.youtube.com/watch?v=I10q6fjPxJ0
+    description: A great video that uses height and weight and shows several different tests.
 
   - title: Scribbr, Choosing the Right Statistical Tests
     icon: link
@@ -60,21 +60,21 @@ supplementary:
     url: https://usq.pressbooks.pub/socialscienceresearch/chapter/chapter-15-quantitative-analysis-inferential-statistics/
     description: Looks at making inferences from a quantitative dataset.
 
-  - title: Run a T-Test in excel
+  - title: "Run a T-Test in Excel (5:19)"
     icon: brands fa-youtube text-danger
     url: https://www.youtube.com/watch?v=BlS11D2VL_U
-    description: How to run a t-test in Excel
-
-  - title: Descriptive Statistics in Excel Using the Data Analysis Tool
-    icon: brands fa-youtube text-danger
-    url: https://www.youtube.com/watch?v=pfYhwy3wN14
-    description: A quick way to get descriptive statistics in Excel
+    description: How to run a t-test in Excel with just a formula!
 
 activities:
   - title: Walkthrough for Descriptive Statistics Activity
     icon: play-circle text-success
     url:
     description: Video walkthrough of the activity with a different data set.
+
+  - title: "Descriptive Statistics in Excel Using the Data Analysis Tool (5:35)"
+    icon: brands fa-youtube text-danger
+    url: https://www.youtube.com/watch?v=pfYhwy3wN14
+    description: A quick way to get descriptive statistics in Excel. Includes installation instructions for Windows PCs.
 
   - title: "Descriptive Statistics Activity"
     icon: file-excel text-success
