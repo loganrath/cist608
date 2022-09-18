@@ -15,6 +15,11 @@ readings:
     icon: file-pdf text-danger
     description: These are the slides for Module 6.
 
+  - title: "Statistics made easy ! ! ! Learn about the t-test, the chi square test, the p value and more" (12:49)
+    icon: brands fa-youtube text-danger
+    url: https://www.youtube.com/watch?v=I10q6fjPxJ0
+    description: A great video that uses height and weight and shows several different tests.
+
   - title: Sheppard, Ch. 8, "Data Collection Methods&colon; Survey Research"
     icon: book-atlas text-purple
     url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter-8-data-collection-methods-survey-research/
@@ -36,6 +41,12 @@ readings:
     description: A quick reference for choosing the right statistical test.
 
 supplementary:
+  - title: Teach Me Statistics in Half an Hour (42:08)
+    icon: brands fa-youtube text-danger
+    url: https://www.youtube.com/watch?v=kyjlxsLW1Is
+    description: A great video that covers all of the basic statistical content you'll need in 42 minutes.
+
+
   - title: Bhattacherjee, Ch. 14, "Quantitative Analysis&colon; Descriptive statistics"
     icon: book-atlas text-purple
     url: https://usq.pressbooks.pub/socialscienceresearch/chapter/chapter-14-quantitative-analysis-descriptive-statistics/
