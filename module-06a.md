@@ -46,7 +46,6 @@ supplementary:
     url: https://www.youtube.com/watch?v=kyjlxsLW1Is
     description: A great video that covers all of the basic statistical content you'll need in 42 minutes.
 
-
   - title: Bhattacherjee, Ch. 14, "Quantitative Analysis&colon; Descriptive statistics"
     icon: book-atlas text-purple
     url: https://usq.pressbooks.pub/socialscienceresearch/chapter/chapter-14-quantitative-analysis-descriptive-statistics/
@@ -57,11 +56,19 @@ supplementary:
     url: https://usq.pressbooks.pub/socialscienceresearch/chapter/chapter-15-quantitative-analysis-inferential-statistics/
     description: Looks at making inferences from a quantitative dataset.
 
-activities:
-  - title: Excel Activity
-    icon: building-columns text-warning
-    url: https://library.albany.edu
-    description: Please complete the module from the librarian.
-    due: September 19 @ 11:59pm
+  - title: Run a T-Test in excel
+    icon: brands fa-youtube text-danger
+    url: https://www.youtube.com/watch?v=BlS11D2VL_U
+    description: How to run a t-test in Excel
 
+  - title: Descriptive Statistics in Excel Using the Data Analysis Tool
+    icon: brands fa-youtube text-danger
+    url: https://www.youtube.com/watch?v=pfYhwy3wN14
+    description: A quick way to get descriptive statistics in Excel
+
+activities:
+  - title: "Descriptive Statistics Activity Test Canvas: Descriptive Statistics Activity"
+    icon: file-excel text-success
+    url: https://blackboard.albany.edu/webapps/blackboard/content/launchAssessment.jsp?course_id=_170260_1&content_id=_7464564_1
+    description: Please calculate the sum, mean, median and mode for each column in the spreadsheet.
 ---
