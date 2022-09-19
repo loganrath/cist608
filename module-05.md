@@ -12,10 +12,15 @@ readings:
     icon: play-circle text-success
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
 
-  - title: Lecture for Module 5
-    url:
+  - title: "Lecture for Module 5 (4:12)"
+    url: https://youtu.be/uN22OjpsVIo
     icon: play-circle text-success
     description: This is an overview of sampling.
+
+  - title: Slides for Module 5
+    url: https://livealbany-my.sharepoint.com/:b:/g/personal/lrath_albany_edu/EYjlklygGoxJnOWNp7c5mhEBlrZrsfc8zec6aazeqTHwLA?e=82WdZB
+    icon: file-pdf text-danger
+    description: These are the slides that accompany the lecture for Module 5.
 
   - title: Sheppard, Ch. 6, "Data Collection Strategies"
     icon: book-atlas text-purple
