@@ -19,37 +19,37 @@ readings:
     icon: file-pdf text-danger
     description: These are the slides for Module 6.
 
-  - title: [Week 1] Sheppard, Ch. 8, "Data Collection Methods&colon; Survey Research"
+  - title: (Week 1) Sheppard, Ch. 8, "Data Collection Methods&colon; Survey Research"
     icon: book-atlas text-purple
     url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter-8-data-collection-methods-survey-research/
     description: Includes considerations for choosing and using a survey. Pay special attention to wording of questions and answers as described in 8.6 and 8.7
 
-  - title: [Week 1] DeCarlo, Ch. 11, "Survey Research"
+  - title: (Week 1) DeCarlo, Ch. 11, "Survey Research"
     icon: book-atlas text-purple
     url: https://scientificinquiryinsocialwork.pressbooks.com/chapter/11-0-chapter-introduction/
     description: Very similar to Sheppard's chapter.
 
-  - title: [Week 1] Sheppard, Ch. 9, "Analysis of Survey Data"
+  - title: (Week 1) Sheppard, Ch. 9, "Analysis of Survey Data"
     icon: book-atlas text-purple
     url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter-9-analysis-of-survey-data/
     description: A brief introduction to quantitative data
 
-  - title: [Week 1] "Statistics made easy ! ! ! Learn about the t-test, the chi square test, the p value and more (12:49)"
+  - title: (Week 1) "Statistics made easy ! ! ! Learn about the t-test, the chi square test, the p value and more (12:49)"
     icon: brands fa-youtube text-danger
     url: https://www.youtube.com/watch?v=I10q6fjPxJ0
     description: A great video that uses height and weight and shows several different tests.
 
-  - title: [Week 2] DeCarlo, 12.4 "Analyzing Quantitative Data"
+  - title: (Week 2) DeCarlo, 12.4 "Analyzing Quantitative Data"
     icon: book-atlas text-purple
     url: https://scientificinquiryinsocialwork.pressbooks.com/chapter/12-4-analyzing-quantitative-data/
     description: Provides great definitions and description of major vocabulary terms.
 
-  - title: [Week 2] Sheppard, Ch. 11, "Quantitative Interview Techniques &amp; Considerations"
+  - title: (Week 2) Sheppard, Ch. 11, "Quantitative Interview Techniques &amp; Considerations"
     icon: book-atlas text-purple
     url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter-11/
     description: Explains a quantitative interview. Specifically pay attention to 11.4 on issues to consider when conducting an interview.
 
-  - title: [Week 2] Scribbr, Choosing the Right Statistical Tests
+  - title: (Week 2) Scribbr, Choosing the Right Statistical Tests
     icon: link text-primary
     url: https://www.scribbr.com/statistics/statistical-tests/
     description: A quick reference for choosing the right statistical test.
@@ -76,31 +76,31 @@ supplementary:
     description: How to run a t-test in Excel with just a formula!
 
 activities:
-  - title: [Week 1] Peer Review of Introduction &amp; Literature Review
+  - title: (Week 1) Peer Review of Introduction &amp; Literature Review
     icon: pen-fancy text-purple
     url: https://blackboard.albany.edu
     description: You will swap drafts with one other student and they will provide you peer feedback on the draft of your introduction and literature review.
     due: October 11 @ 11:59pm
 
-  - title: [Week 2] Walkthrough for Descriptive Statistics Activity
+  - title: (Week 2) Walkthrough for Descriptive Statistics Activity
     icon: play-circle text-success
     url:
     description: Video walkthrough of the activity with a different data set.
     due: October 17 @ 11:59pm
 
-  - title: [Week 2] "Descriptive Statistics in Excel Using the Data Analysis Tool (5:35)"
+  - title: (Week 2) "Descriptive Statistics in Excel Using the Data Analysis Tool (5:35)"
     icon: brands fa-youtube text-danger
     url: https://www.youtube.com/watch?v=pfYhwy3wN14
     description: A quick way to get descriptive statistics in Excel. Includes installation instructions for Windows PCs.
     due: October 17 @ 11:59pm
 
-  - title: [Week 2] "Descriptive Statistics Activity"
+  - title: (Week 2) "Descriptive Statistics Activity"
     icon: file-excel text-success
     url: https://blackboard.albany.edu/webapps/blackboard/content/launchAssessment.jsp?course_id=_170260_1&content_id=_7464564_1
     description: Please calculate the sum, mean, median and mode for each column in the spreadsheet.
     due: October 17 @ 11:59pm
 
-  - title: [Week 2] Final Draft of Introduction &amp; Literature Review
+  - title: (Week 2) Final Draft of Introduction &amp; Literature Review
     icon: file-word text-primary
     url: https://blackboard.albany.edu
     description: Submit the final draft of your introduction and literature review on blackboard
