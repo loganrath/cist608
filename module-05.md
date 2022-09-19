@@ -20,14 +20,14 @@ readings:
   - title: Slides for Module 5
     url: https://livealbany-my.sharepoint.com/:b:/g/personal/lrath_albany_edu/EYjlklygGoxJnOWNp7c5mhEBlrZrsfc8zec6aazeqTHwLA?e=82WdZB
     icon: file-pdf text-danger
-    description: These are the slides that accompany the lecture for Module 5.
+    description: These are the slides that accompany the lecture for Module 5.e
 
   - title: Sheppard, Ch. 6, "Data Collection Strategies"
     icon: book-atlas text-purple
     url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/76-2/
     description: Covers experimental, quasi-experimental and non-experimental designs.
 
-  - title: Introduction to sampling distributions | Sampling distributions | AP Statistics | Khan Academy
+  - title: "Introduction to sampling distributions | Sampling distributions | AP Statistics | Khan Academy (7:17)"
     icon: brands fa-youtube text-danger
     url: https://www.youtube.com/watch?v=z0Ry_3_qhDw
     description: Kahn academy video that explains sampling in a visual way.
