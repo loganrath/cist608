@@ -4,11 +4,11 @@ module_number: 5
 title: Data Collection & Sampling
 dates:
 
-module_description: <div class="alert alert-info">This module is still under construction.</div>Understanding samples and choosing appropriate methods to collect data are key to well done research studies.
+module_description: Understanding samples and choosing appropriate methods to collect data are key to well done research studies.
 
 readings:
-  - title: Video from Logan (Module 5)
-    url:
+  - title: "Video from Logan (Module 5) (2:17)"
+    url: https://youtu.be/Qgwlo0VjauA
     icon: play-circle text-success
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
 
