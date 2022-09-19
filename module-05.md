@@ -54,5 +54,4 @@ activities:
     url: https://blackboard.albany.edu
     description: Post any questions you have about variables and sampling to the discussion board.
     due: September 26 @ 11:59pm
-
 ---
