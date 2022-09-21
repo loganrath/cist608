@@ -51,7 +51,7 @@ supplementary:
 activities:
   - title: Discussion Board
     icon: comments text-warning
-    url: https://blackboard.albany.edu
+    url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_170260_1&nav=discussion_board_entry&conf_id=_276906_1&forum_id=_594244_1
     description: Post any questions you have about variables and sampling to the discussion board.
     due: September 26 @ 11:59pm
 ---
