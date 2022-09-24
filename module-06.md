@@ -7,16 +7,16 @@ dates:
 module_description: <div class="alert alert-info">This module is still under construction.</div> This module lasts two weeks and covers basic quantitative research and basic statistical tests. In the first week it is recommended that you watch the overview and lecture videos, and read Sheppard chapters 8-9. In the second week it is recommended that you watch the "Statistics made easy" video, read Sheppard chapter 11 &amp; DeCarlo 12.4 and complete the Excel activities.
 
 readings:
-  - title: Video from Logan (Module 6)
+  - title: (Week 1) Video from Logan (Module 6)
     icon: play-circle text-success
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
 
-  - title: "Lecture for Module 6 (9:12)"
+  - title: "(Week 1) Lecture for Module 6 (9:12)"
     url: https://youtu.be/yw7qS7muKFU
     icon: play-circle text-success
     description: This video covers variables, the null hypothesis, and how to choose the right test.
 
-  - title: Slides for Module 6
+  - title: (Week 1) Slides for Module 6
     url: https://livealbany-my.sharepoint.com/:b:/g/personal/lrath_albany_edu/EbkRGySAO6BJhwTmOZ8DingBZ6gwM9evqtvpeg-IEcIouw?e=34vXA5
     icon: file-pdf text-danger
     description: These are the slides for Module 6.
@@ -78,34 +78,21 @@ supplementary:
     description: How to run a t-test in Excel with just a formula!
 
 activities:
-  - title: (Week 1) Peer Review of Introduction &amp; Literature Review
-    icon: pen-fancy text-purple
-    url: https://blackboard.albany.edu
-    description: You will swap drafts with one other student and they will provide you peer feedback on the draft of your introduction and literature review.
-    due: October 11 @ 11:59pm
-
-  - title: "(Week 2) Walkthrough for Descriptive Statistics Activity (5:12)"
+  - title: "Walkthrough for Descriptive Statistics Activity (5:12)"
     icon: play-circle text-success
     url: https://youtu.be/9DG-5g8QWbk
     description: Video walkthrough of the activity with a different data set.
     due: October 17 @ 11:59pm
 
-  - title: "(Week 2) Descriptive Statistics in Excel Using the Data Analysis Tool (5:35)"
+  - title: "Descriptive Statistics in Excel Using the Data Analysis Tool (5:35)"
     icon: brands fa-youtube text-danger
     url: https://www.youtube.com/watch?v=pfYhwy3wN14
     description: A quick way to get descriptive statistics in Excel. Includes installation instructions for Windows PCs.
     due: October 17 @ 11:59pm
 
-  - title: "(Week 2) Descriptive Statistics Activity"
+  - title: "Descriptive Statistics Activity"
     icon: file-excel text-success
     url: https://blackboard.albany.edu/webapps/blackboard/content/launchAssessment.jsp?course_id=_170260_1&content_id=_7464564_1
     description: For Data Set 1 - Groups, please calculate the sum, mean, median and mode for each column in the spreadsheet. For Data Set 2 - Grades, please run descriptive statistics using the Excel Data Analysis Toolpak. Watch the video above for exactly what to do.
     due: October 17 @ 11:59pm
-
-  - title: (Week 2) Final Draft of Introduction &amp; Literature Review
-    icon: file-word text-primary
-    url: https://blackboard.albany.edu
-    description: Submit the final draft of your introduction and literature review on blackboard
-    due: October 17 @ 11:59pm
-
 ---
