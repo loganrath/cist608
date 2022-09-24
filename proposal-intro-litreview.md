@@ -34,6 +34,21 @@ supplementary:
     url: https://apastyle.apa.org/style-grammar-guidelines/paper-format/sample-papers
     description: Sample papers on which you can use to base the formatting of your paper. Again, you only need the <em>student</em> version.
 
+  - title: APA Student Paper Setup guide
+    icon: file-pdf text-danger
+    url: https://apastyle.apa.org/instructional-aids/student-paper-setup-guide.pdf
+    description: A complete walkthrough of setting up your paper.
+
+  - title: APA Style In-Text Citations
+    icon: link text-primary
+    url: https://apastyle.apa.org/style-grammar-guidelines/citations
+    description: How to appropriately use in-text citations.
+
+  - title: APA Style In-Text Citation Checklist
+    icon: file-pdf text-danger
+    url: https://apastyle.apa.org/instructional-aids/in-text-citation-checklist.pdf
+    description: A checklist for using in-text citations
+
   - title: Excelsior OWL
     icon: link text-primary
     url: https://owl.excelsior.edu/citation-and-documentation/apa-style/
@@ -47,7 +62,7 @@ activities:
     due: October 3 @ 11:59pm
 
   - title: Peer Review of Introduction &amp; Literature Review
-    icon: users text-yellow
+    icon: users text-gold
     url: https://blackboard.albany.edu
     description: You will swap drafts with one other student and they will provide you peer feedback on the draft of your introduction and literature review.
     due: October 11 @ 11:59pm
