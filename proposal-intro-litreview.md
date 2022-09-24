@@ -27,7 +27,7 @@ supplementary:
   - title: APA Paper Format
     icon: link text-primary
     url: https://apastyle.apa.org/style-grammar-guidelines/paper-format
-    description: This page shows you how an APA paper should be formatted. There is also a template you can use. You only need to use the <em>Student</em> version.
+    description: This page shows you how an APA paper should be formatted. There is also a template you can use. You only need to use the <em>student</em> version.
 
   - title: APA Sample papers
     icon: link text-primary
