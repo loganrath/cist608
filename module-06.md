@@ -11,11 +11,13 @@ readings:
     icon: play-circle text-success
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
 
-  - title: Lecture for Module 6
+  - title: "Lecture for Module 6 (9:12)"
+    url: https://youtu.be/yw7qS7muKFU
     icon: play-circle text-success
     description: This video covers variables, the null hypothesis, and how to choose the right test.
 
   - title: Slides for Module 6
+    url: https://livealbany-my.sharepoint.com/:b:/g/personal/lrath_albany_edu/EbkRGySAO6BJhwTmOZ8DingBZ6gwM9evqtvpeg-IEcIouw?e=34vXA5
     icon: file-pdf text-danger
     description: These are the slides for Module 6.
 
@@ -82,22 +84,22 @@ activities:
     description: You will swap drafts with one other student and they will provide you peer feedback on the draft of your introduction and literature review.
     due: October 11 @ 11:59pm
 
-  - title: (Week 2) Walkthrough for Descriptive Statistics Activity
+  - title: "(Week 2) Walkthrough for Descriptive Statistics Activity (5:12)"
     icon: play-circle text-success
-    url:
+    url: https://youtu.be/9DG-5g8QWbk
     description: Video walkthrough of the activity with a different data set.
     due: October 17 @ 11:59pm
 
-  - title: (Week 2) "Descriptive Statistics in Excel Using the Data Analysis Tool (5:35)"
+  - title: "(Week 2) Descriptive Statistics in Excel Using the Data Analysis Tool (5:35)"
     icon: brands fa-youtube text-danger
     url: https://www.youtube.com/watch?v=pfYhwy3wN14
     description: A quick way to get descriptive statistics in Excel. Includes installation instructions for Windows PCs.
     due: October 17 @ 11:59pm
 
-  - title: (Week 2) "Descriptive Statistics Activity"
+  - title: "(Week 2) Descriptive Statistics Activity"
     icon: file-excel text-success
     url: https://blackboard.albany.edu/webapps/blackboard/content/launchAssessment.jsp?course_id=_170260_1&content_id=_7464564_1
-    description: Please calculate the sum, mean, median and mode for each column in the spreadsheet.
+    description: For Data Set 1 - Groups, please calculate the sum, mean, median and mode for each column in the spreadsheet. For Data Set 2 - Grades, please run descriptive statistics using the Excel Data Analysis Toolpak. Watch the video above for exactly what to do.
     due: October 17 @ 11:59pm
 
   - title: (Week 2) Final Draft of Introduction &amp; Literature Review
