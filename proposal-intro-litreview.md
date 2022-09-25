@@ -8,9 +8,9 @@ module_description: >
   This module has resources that help you with your proposal and literature review. These are resources you've already used, but are linked here for your convenience.
 
 readings:
-  - title: Proposal Overview Slides
+  - title: Overview Slides for Part 1 of Your Proposal
     icon: file-pdf text-danger
-    url: https://livealbany-my.sharepoint.com/:b:/g/personal/lrath_albany_edu/EVpW2KxPOYZPmkVcQEf8w8EBYWNwHFBmEQz_ZklJ1DWAfw?e=ew2dv2
+    url: https://livealbany-my.sharepoint.com/:b:/g/personal/lrath_albany_edu/EVpW2KxPOYZPmkVcQEf8w8EBYWNwHFBmEQz_ZklJ1DWAfw?e=OTg2wo
     description: Here are some slides as a review.
 
   - title: Proposal Instructions
