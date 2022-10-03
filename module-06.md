@@ -7,7 +7,7 @@ dates:
 module_description: This module lasts two weeks and covers basic quantitative research and basic statistical tests. In the first week it is recommended that you watch the overview and lecture videos, and read Sheppard chapters 8-9. In the second week it is recommended that you watch the "Statistics made easy" video, read Sheppard chapter 11 &amp; DeCarlo 12.4 and complete the Excel activities.
 
 readings:
-  - title: (Week 1) Video from Logan (Module 6)
+  - title: "(Week 1) Video from Logan (Module 6) (1:18)"
     icon: play-circle text-success
     url: https://youtu.be/vRO4AuHP2gc
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
