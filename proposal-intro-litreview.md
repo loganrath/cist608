@@ -63,7 +63,7 @@ activities:
 
   - title: Peer Review of Introduction &amp; Literature Review
     icon: users text-gold
-    url: https://blackboard.albany.edu
+    url: https://blackboard.albany.edu/webapps/assignment/uploadAssignment?content_id=_7480755_1&course_id=_170260_1&group_id=&mode=cpview
     description: You will swap drafts with one other student and they will provide you peer feedback on the draft of your introduction and literature review.
     due: October 10 @ 11:59pm
 
