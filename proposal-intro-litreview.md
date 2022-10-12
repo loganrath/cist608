@@ -69,7 +69,7 @@ activities:
 
   - title: Draft of your introduction and literature review for peer review
     due: October 17 @ 11:59pm
-    url:
+    url: https://blackboard.albany.edu/webapps/assignment/uploadAssignment?content_id=_7484391_1&course_id=_170260_1&group_id=&mode=cpview
     icon: file-word text-primary
     description: Submit your draft of your introduction and literature review sections.
 
