@@ -24,7 +24,7 @@ readings:
   - title: Sheppard, Ch. 10, "Qualitative Data Collection &amp; Analysis Methods"
     icon: book-atlas text-purple
     url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter-10/
-    description: This chapter covers intervies, focus groups, videography, and coding.
+    description: This chapter covers interviews, focus groups, videography, and coding.
 
   - title: Sheppard, Ch. 12, "Field Research: A Qualitative Research Technique"
     icon: book-atlas text-purple
