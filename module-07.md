@@ -2,7 +2,6 @@
 layout: yamlmodule
 module_number: 7
 title: Qualitative Research
-dates:
 
 module_description: This module covers the basics of qualitative research including methods, data collection, and analysis.
 
@@ -25,12 +24,12 @@ readings:
   - title: Sheppard, Ch. 10, "Qualitative Data Collection &amp; Analysis Methods"
     icon: book-atlas text-purple
     url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter-10/
-    description:
+    description: This chapter covers intervies, focus groups, videography, and coding.
 
   - title: Sheppard, Ch. 12, "Field Research: A Qualitative Research Technique"
     icon: book-atlas text-purple
     url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter-12-field-research-a-qualitative-research-technique/
-    description:
+    description: This chapter covers ethnographies.
 
 activities:
   - title: Practice Coding
