@@ -50,8 +50,4 @@ activities:
     url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_170260_1&nav=discussion_board_entry&conf_id=_276906_1&forum_id=_595441_1
     description: Now you have learned quite a bit about qualitative and quantitative methods. In this discussion board provide your perceptions of each and what type of data collection you might be more interested in doing for your proposal. Respond to at least 3 other classmates.
     due: October 24 @ 11:59pm
-
-
-
-
 ---
