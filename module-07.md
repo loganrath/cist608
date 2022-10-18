@@ -6,19 +6,19 @@ title: Qualitative Research
 module_description: <div class="alert alert-info">This module is not finished yet.</div>This module covers the basics of qualitative research including methods, data collection, and analysis.
 
 readings:
-  - title: Video from Logan (Module 7)
+  - title: "Video from Logan (Module 7)"
     url:
     icon: play-circle text-success
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
 
-  - title: Lecture for Module 7
-    url:
+  - title: "Lecture for Module 7 (21:58)"
+    url: https://youtu.be/fOb8vs1cqeg
     icon: play-circle text-success
-    description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
+    description: This is a stand alone lecture on qualitative research. I walk you through the different types as well as highlight what I think is important for you to know.
 
   - title: Slides for Module 7
-    url:
-    icon: play-circle text-success
+    url: https://livealbany-my.sharepoint.com/:b:/g/personal/lrath_albany_edu/EZlmODrs9NlAsb0Q-mURhC4Bwl0hToXwjlSuuQaOIkzp3A?e=syxwwS
+    icon: file-pdf text-danger
     description: These are the slides for Module 7.
 
   - title: "Sheppard, Ch. 10, Qualitative Data Collection &amp; Analysis Methods"
