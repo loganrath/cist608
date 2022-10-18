@@ -3,11 +3,11 @@ layout: yamlmodule
 module_number: 7
 title: Qualitative Research
 
-module_description: <div class="alert alert-info">This module is not finished yet.</div>This module covers the basics of qualitative research including methods, data collection, and analysis.
+module_description: This module covers the basics of qualitative research including methods, data collection, and analysis.
 
 readings:
-  - title: "Video from Logan (Module 7)"
-    url:
+  - title: "Video from Logan (Module 7) (2:22)"
+    url: https://youtu.be/bqT3bcFSMv8
     icon: play-circle text-success
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
 
