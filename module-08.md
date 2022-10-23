@@ -1,59 +1,64 @@
 ---
-layout: notready
+layout: yamlmodule
 module_number: 8
 title: Methods & Instruments
 dates:
 
-module_description:
+module_description: This module finishes up what you need to know about methods as well as locating existing instruments.
 
 readings:
-  - title: Video from Logan (Module {{ page.module_number }})
+  - title: Video from Logan (Module 8)
     url:
     icon: play-circle text-success
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
 
-  - title: Sheppard, Ch. 5, "The Literature Review"
-    icon: book-altas text-purple
-    url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter-5/
-    description: This chapter provides an overview of what is a literature review when it comes to field research.
-
-  - title: Sheppard, Ch. 16, "Reading and Understanding Social Research"
-    icon: book-atlas text-purple
-    url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter-16/
-    description: This chapter can help you understand and deconstruct papers that you find through literature searching.
-
-  - title: Scribbr, "What is a Literature Review"
+  - title: Lecture for Module 8
+    url:
     icon: play-circle text-success
-    url: https://www.youtube.com/watch?v=KkAnKGuX7fs&feature=emb_logo
-    description: This video provides an excellent explanation of a literature review. The video also provides tips and tricks to help you complete your assignment.
+    description: This lecture covers evaluation research, action research, and single subjects design.
 
-  - title: Randolph, J. (2009) A guide to writing the dissertation literature review. <em>Practical Assessment, Research, and Evaluation 14</em>, Article 13. https://doi.org/10.7275/b0az-8t74
-    icon: file-pdf text-danger
-    url: https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1219&context=pare
-    description: This optional reading may provide more context and specific methods for completing a literature review. Tables 2 and 3 provide excellent graphical organizers if that is helpful for you.
+  - title: Slides for Module 8
+    url:
+    icon: play-circle text-success
+    description: These are the slides for Module 8.
+
+  - title: DeCarlo, Ch. 13, "Interviews and Focus Groups"
+    icon: book-altas text-purple
+    url: https://pressbooks.pub/scientificinquiryinsocialwork/chapter/13-0-chapter-introduction/
+    description: This chapter provides another take on interviews and focus groups.
+
+  - title: DeCarlo, Ch. 15, "Real World Research"
+    icon: book-atlas text-purple
+    url: https://pressbooks.pub/scientificinquiryinsocialwork/chapter/15-0-chapter-introduction/
+    description: This chapter covers methods that are less commonly used in information sciences, but are important to know.
+
+  - title: Methods Section Overview
+    url:
+    icon: play-circle text-success
+    description: This video will explain what goes into your methods section.
 
 activities:
-  - title: Librarian Activities
-    icon: building-columns text-warning
-    url: https://library.albany.edu
-    description: Please complete the module from the librarian.
-    due: September 19 @ 11:59pm
+  - title: Finding Measures
+    icon: magnifying-glass text-purple
+    url:
+    description: You will spend some time searching for existing measures (e.g. interview, questionnaire, survey, etc.) that aligns with you research question.
+    due: October 21 @ 11:59pm
 
-  - title: Group Literature searching
-    icon: users text-teal
-    description: Work in your groups to help each other find the best literature.
+  - title: Methods discussion board
+    icon: comments text-warning
+    description: In this discussion board, you will respond discuss the instrument you are thinking of using as well as provide feedback to your classmates and suggestions.
     due: September 16 @ 11:59pm
 
-  - title: Model Paper
-    icon: copy text-dark
-    url: https://blackboard.albany.edu/
-    description: Submit an article you will use as a model for your research proposal.
-    due: September 19 @ 11:59pm
-
-  - title: Annotated Bibliography
+  - title: Methods Outline
     icon: file-word
     url: https://blackboard.albany.edu/
-    description: Submit an annotated bibliography from your literature searching. For each source paste in the abstract and then type 2-3 sentences explaining how the supportsyour research question.
-    due: September 19 @ 11:59pm
+    description: You will submit the outline of your methods section which includes your potential participants, how you will recruit them, your specific research design, a detailed description of the protocol you will follow, plans for analyzing your data, your positionality, and potential limitations you forsee.
+    due: October 31 @ 11:59pm
+
+  - title: Instrument Draft
+    icon: file-word
+    url: https://blackboard.albany.edu/
+    description: You will submit a draft of your data collection instrument. This would be your interview questions, your survey questions, or any other instrument you plan to use to gather data to answer your question.
+    due: October 31 @ 11:59pm
 
 ---
