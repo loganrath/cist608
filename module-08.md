@@ -4,7 +4,7 @@ module_number: 8
 title: Methods & Instruments
 dates:
 
-module_description: This module finishes up what you need to know about methods as well as locating existing instruments.
+module_description: <div class="alert alert-info">This module is not yet finished.</div>This module finishes up what you need to know about methods as well as locating existing instruments.
 
 readings:
   - title: Video from Logan (Module 8)
