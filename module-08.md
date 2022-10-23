@@ -23,7 +23,7 @@ readings:
     description: These are the slides for Module 8.
 
   - title: DeCarlo, Ch. 13, "Interviews and Focus Groups"
-    icon: book-altas text-purple
+    icon: book-atlas text-purple
     url: https://pressbooks.pub/scientificinquiryinsocialwork/chapter/13-0-chapter-introduction/
     description: This chapter provides another take on interviews and focus groups.
 
