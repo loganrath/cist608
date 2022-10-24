@@ -4,11 +4,11 @@ module_number: 8
 title: Methods & Instruments
 dates:
 
-module_description: <div class="alert alert-info">This module is not yet finished.</div>This module finishes up what you need to know about methods as well as locating existing instruments.
+module_description: This module finishes up what you need to know about methods as well as locating existing instruments.
 
 readings:
-  - title: Video from Logan (Module 8)
-    url:
+  - title: "Video from Logan (Module 8) (1:35)"
+    url: https://youtu.be/cKTxPj4xmuM
     icon: play-circle text-success
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
 
@@ -45,18 +45,19 @@ activities:
 
   - title: Methods discussion board
     icon: comments text-warning
+    url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_170260_1&nav=discussion_board_entry&conf_id=_276906_1&forum_id=_595827_1
     description: In this discussion board, you will discuss the instrument you are thinking of using as well as provide feedback to your classmates and suggestions.
     due: October 31 @ 11:59pm
 
   - title: Methods Outline
     icon: file-word text-primary
-    url: https://blackboard.albany.edu/
+    url: https://blackboard.albany.edu/webapps/assignment/uploadAssignment?content_id=_7493603_1&course_id=_170260_1&group_id=&mode=cpview
     description: You will submit the outline of your methods section which includes your potential participants, how you will recruit them, your specific research design, a detailed description of the protocol you will follow, plans for analyzing your data, your positionality, and potential limitations you forsee.
     due: October 31 @ 11:59pm
 
   - title: Instrument Draft
     icon: file-word text-primary
-    url: https://blackboard.albany.edu/
+    url: https://blackboard.albany.edu/webapps/assignment/uploadAssignment?content_id=_7493605_1&course_id=_170260_1&group_id=&mode=cpview
     description: You will submit a draft of your data collection instrument. This would be your interview questions, your survey questions, or any other instrument you plan to use to gather data to answer your question.
     due: October 31 @ 11:59pm
 
