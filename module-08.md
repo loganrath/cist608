@@ -12,13 +12,13 @@ readings:
     icon: play-circle text-success
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
 
-  - title: Lecture for Module 8
-    url:
+  - title: "Lecture for Module 8 (4:10)"
+    url: https://youtu.be/AswcT0Y9MuI
     icon: play-circle text-success
     description: This lecture covers evaluation research, action research, and single subjects design.
 
   - title: Slides for Module 8
-    url:
+    url: https://livealbany-my.sharepoint.com/:b:/g/personal/lrath_albany_edu/EWOKE8sXSU5CuvDLXEc43JUBMTpd1_VJYr5ypsLrKItyLg?e=Ye3dOE
     icon: play-circle text-success
     description: These are the slides for Module 8.
 
@@ -32,22 +32,21 @@ readings:
     url: https://pressbooks.pub/scientificinquiryinsocialwork/chapter/15-0-chapter-introduction/
     description: This chapter covers methods that are less commonly used in information sciences, but are important to know.
 
-  - title: Methods Section Overview
-    url:
+  - title: "Methods Section Overview (2:11)"
+    url: https://youtu.be/gsDtLvDE1Iw
     icon: play-circle text-success
     description: This video will explain what goes into your methods section.
 
 activities:
   - title: Finding Measures
     icon: magnifying-glass text-purple
-    url:
     description: You will spend some time searching for existing measures (e.g. interview, questionnaire, survey, etc.) that aligns with you research question.
-    due: October 21 @ 11:59pm
+    due: October 28 @ 11:59pm
 
   - title: Methods discussion board
     icon: comments text-warning
     description: In this discussion board, you will respond discuss the instrument you are thinking of using as well as provide feedback to your classmates and suggestions.
-    due: September 16 @ 11:59pm
+    due: October 31 @ 11:59pm
 
   - title: Methods Outline
     icon: file-word
