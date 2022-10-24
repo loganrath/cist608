@@ -45,7 +45,7 @@ activities:
 
   - title: Methods discussion board
     icon: comments text-warning
-    description: In this discussion board, you will respond discuss the instrument you are thinking of using as well as provide feedback to your classmates and suggestions.
+    description: In this discussion board, you will discuss the instrument you are thinking of using as well as provide feedback to your classmates and suggestions.
     due: October 31 @ 11:59pm
 
   - title: Methods Outline
