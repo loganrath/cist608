@@ -49,13 +49,13 @@ activities:
     due: October 31 @ 11:59pm
 
   - title: Methods Outline
-    icon: file-word
+    icon: file-word text-primary
     url: https://blackboard.albany.edu/
     description: You will submit the outline of your methods section which includes your potential participants, how you will recruit them, your specific research design, a detailed description of the protocol you will follow, plans for analyzing your data, your positionality, and potential limitations you forsee.
     due: October 31 @ 11:59pm
 
   - title: Instrument Draft
-    icon: file-word
+    icon: file-word text-primary
     url: https://blackboard.albany.edu/
     description: You will submit a draft of your data collection instrument. This would be your interview questions, your survey questions, or any other instrument you plan to use to gather data to answer your question.
     due: October 31 @ 11:59pm
