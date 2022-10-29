@@ -1,10 +1,10 @@
 ---
-layout: notready
+layout: yamlmodule
 module_number: 9
 title: Unobtrusive Research
 dates:
 
-module_description:
+module_description: <div class="alert alert-info">This module is not finished.</div> This module covers unobtrusive research where you do not interact with the subject.
 
 readings:
   - title: Video from Logan (Module 9)
@@ -12,48 +12,32 @@ readings:
     icon: play-circle text-success
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
 
-  - title: Sheppard, Ch. 5, "The Literature Review"
-    icon: book-altas text-purple
-    url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter-5/
-    description: This chapter provides an overview of what is a literature review when it comes to field research.
-
-  - title: Sheppard, Ch. 16, "Reading and Understanding Social Research"
-    icon: book-atlas text-purple
-    url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter-16/
-    description: This chapter can help you understand and deconstruct papers that you find through literature searching.
-
-  - title: Scribbr, "What is a Literature Review"
+  - title: "Module 9 Lecture (3:57)"
+    url: https://youtu.be/0aVVjPQC7U8
     icon: play-circle text-success
-    url: https://www.youtube.com/watch?v=KkAnKGuX7fs&feature=emb_logo
-    description: This video provides an excellent explanation of a literature review. The video also provides tips and tricks to help you complete your assignment.
+    description: This lecture covers unobtrusive methods like secondary analysis and discourse analysis.
 
-  - title: Randolph, J. (2009) A guide to writing the dissertation literature review. <em>Practical Assessment, Research, and Evaluation 14</em>, Article 13. https://doi.org/10.7275/b0az-8t74
+  - title: Slides for Module 9
+    url: https://livealbany-my.sharepoint.com/:b:/g/personal/lrath_albany_edu/ETMrMTxEF7VCgPcpMhHN90wB_vwZ2IAfNWX2v70Y8eX5PQ?e=sUMuS0
     icon: file-pdf text-danger
-    url: https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1219&context=pare
-    description: This optional reading may provide more context and specific methods for completing a literature review. Tables 2 and 3 provide excellent graphical organizers if that is helpful for you.
+    description: Here are the slides from Module 9.
+
+  - title: Sheppard, Ch. 13, "Unobtrusive Research: Qualitative and Quantitative Approaches"
+    icon: book-atlas text-purple
+    url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter-13/
+    description: This chapter provides an overview of unobtrusive methods where you do not interact with the subject.
 
 activities:
-  - title: Librarian Activities
-    icon: building-columns text-warning
-    url: https://library.albany.edu
-    description: Please complete the module from the librarian.
-    due: September 19 @ 11:59pm
 
-  - title: Group Literature searching
-    icon: users text-teal
-    description: Work in your groups to help each other find the best literature.
-    due: September 16 @ 11:59pm
+  - title: Unobtrusive Methods Discussion Board
+    icon: comments text-warning
+    description: How could you redesign your study, or create a related study, that used an unobtrusive method?
+    due: November 7 @ 11:59pm
 
-  - title: Model Paper
-    icon: copy text-dark
-    url: https://blackboard.albany.edu/
-    description: Submit an article you will use as a model for your research proposal.
-    due: September 19 @ 11:59pm
+  - title: Methods Section
+    icon: pen-fancy text-purple
+    description: Spend time working on your methods section and contact me if you have any questions.
+    due: November 14 @ 11:59pm
 
-  - title: Annotated Bibliography
-    icon: file-word
-    url: https://blackboard.albany.edu/
-    description: Submit an annotated bibliography from your literature searching. For each source paste in the abstract and then type 2-3 sentences explaining how the supportsyour research question.
-    due: September 19 @ 11:59pm
 
 ---
