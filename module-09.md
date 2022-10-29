@@ -22,7 +22,7 @@ readings:
     icon: file-pdf text-danger
     description: Here are the slides from Module 9.
 
-  - title: Sheppard, Ch. 13, "Unobtrusive Research: Qualitative and Quantitative Approaches"
+  - title: "Sheppard, Ch. 13, Unobtrusive Research: Qualitative and Quantitative Approaches"
     icon: book-atlas text-purple
     url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter-13/
     description: This chapter provides an overview of unobtrusive methods where you do not interact with the subject.
