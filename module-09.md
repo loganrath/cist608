@@ -7,8 +7,8 @@ dates:
 module_description: <div class="alert alert-info">This module is not finished.</div> This module covers unobtrusive research where you do not interact with the subject.
 
 readings:
-  - title: Video from Logan (Module 9)
-    url:
+  - title: "Video from Logan (Module 9) (1:13)"
+    url: https://youtu.be/J8IRsXBNwcA
     icon: play-circle text-success
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
 
