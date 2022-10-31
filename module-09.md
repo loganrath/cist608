@@ -4,7 +4,7 @@ module_number: 9
 title: Unobtrusive Research
 dates:
 
-module_description: <div class="alert alert-info">This module is not finished.</div> This module covers unobtrusive research where you do not interact with the subject.
+module_description: This module covers unobtrusive research where you do not interact with the subject.
 
 readings:
   - title: "Video from Logan (Module 9) (1:13)"
