@@ -28,14 +28,15 @@ readings:
     description: This chapter provides an overview of unobtrusive methods where you do not interact with the subject.
 
 activities:
-
   - title: Unobtrusive Methods Discussion Board
     icon: comments text-warning
+    url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_170260_1&nav=discussion_board_entry&conf_id=_276906_1&forum_id=_596116_1
     description: How could you redesign your study, or create a related study, that used an unobtrusive method?
     due: November 7 @ 11:59pm
 
   - title: Methods Section
     icon: pen-fancy text-purple
+    url: https://youtu.be/gsDtLvDE1Iw
     description: Spend time working on your methods section and contact me if you have any questions.
     due: November 14 @ 11:59pm
 
