@@ -41,7 +41,7 @@ supplementary:
   - title: Scribbr's Academic Writing page
     icon: link text-primary
     url: https://www.scribbr.com/category/academic-writing/
-    description: A really helpful knowledge base of academic writing tips and tricks. Check out the <a href="https://www.scribbr.com/academic-writing/transition-words/" target="_blank">transitions words</a> page or the <a href="https://www.scribbr.com/apa-style/methods-section/">methods</a>, for example.
+    description: A really helpful knowledge base of academic writing tips and tricks. Check out the <a href="https://www.scribbr.com/academic-writing/transition-words/" target="_blank">transitions words</a> page or the <a href="https://www.scribbr.com/apa-style/methods-section/" target="_blank">methods</a>, for example.
 
 activities:
   - title: Final Draft of Your proposal
