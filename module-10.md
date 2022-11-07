@@ -27,7 +27,21 @@ readings:
     url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter-15-sharing-your-research/
     description: This chapter provides an overview of writing up and sharing your research based on audience and format.
 
+supplementary:
+  - title: USC Writing Center's Guide
+    icon: link text-primary
+    url: https://libguides.usc.edu/writingguide/
+    description: A great guide that will show you how to write up various sections of a paper.
 
+  - title: Scribbr's Academic Writing page
+    icon: link text-primary
+    url: https://www.scribbr.com/category/academic-writing/
+    description: A really helpful knowledge base of academic writing tips and tricks. Check out the <a href="https://www.scribbr.com/academic-writing/transition-words/" target="_blank">transitions words</a> page, for example.
+
+  - title: Scribbr's Academic Writing page
+    icon: link text-primary
+    url: https://www.scribbr.com/category/academic-writing/
+    description: A really helpful knowledge base of academic writing tips and tricks. Check out the <a href="https://www.scribbr.com/academic-writing/transition-words/" target="_blank">transitions words</a> page or the <a href="https://www.scribbr.com/apa-style/methods-section/">methods</a>, for example.
 
 activities:
   - title: Final Draft of Your proposal
