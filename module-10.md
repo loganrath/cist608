@@ -12,13 +12,13 @@ readings:
     icon: play-circle text-success
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
 
-  - title: Writing Tips from Logan
-    url:
+  - title: "Module 10 Lecture (9:05)"
+    url: https://youtu.be/dfpmyHmIqSw
     icon: play-circle text-success
     description: This video will give some tips and tricks for writing coherently and cohesively.
 
-  - title: Slides for writing tips
-    url:
+  - title: Slides for Academic Writing
+    url: https://livealbany-my.sharepoint.com/:b:/g/personal/lrath_albany_edu/EbZNTjEJn9RNofLTXPmMDbMByg-UgZ8Yp6dAowI2okR5LA?e=z6k8QO
     icon: play-circle text-success
     description: Slides from the above video.
 
