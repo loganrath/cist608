@@ -46,7 +46,7 @@ supplementary:
 activities:
   - title: Draft of Full Proposal with Methods and Conclusion
     icon: file-word text-primary
-    url: https://blackboard.albany.edu
+    url: https://blackboard.albany.edu/webapps/assignment/uploadAssignment?content_id=_7504068_1&course_id=_170260_1&group_id=&mode=cpview
     description: This is the first draft of your proposal which includes your introduction, literature review, methods and conclusion. See the Proposal Outline document for specific instructions. This is just a drop box so that you have something to peer-review. I advise you to include your revised introduction and literature review sections, but the important part here is your methods section and conclusion.
     due: November 14 @ 11:59pm
 
