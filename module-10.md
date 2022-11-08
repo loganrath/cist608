@@ -4,11 +4,11 @@ module_number: 10
 title: Writing Up Research
 dates:
 
-module_description: <div class="alert alert-info">This module is not yet ready.</div>This module covers some writing tips and tricks.
+module_description: This module covers some writing tips and tricks.
 
 readings:
-  - title: Video from Logan (Module 10)
-    url:
+  - title: "Video from Logan (Module 10) (2:59)"
+    url: https://youtu.be/An9aVOSGIEc
     icon: play-circle text-success
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
 
