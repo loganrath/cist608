@@ -47,7 +47,7 @@ activities:
   - title: Draft of Full Proposal with Methods and Conclusion
     icon: file-word text-primary
     url: https://blackboard.albany.edu/webapps/assignment/uploadAssignment?content_id=_7504068_1&course_id=_170260_1&group_id=&mode=cpview
-    description: This is the first draft of your proposal which includes your introduction, literature review, methods and conclusion. See the Proposal Outline document for specific instructions. This is just a drop box so that you have something to peer-review. I advise you to include your revised introduction and literature review sections, but the important part here is your methods section and conclusion.
+    description: This is the first draft of your proposal which includes your introduction, literature review, methods and conclusion. See the Proposal Outline document for specific instructions. This is just a drop box so that you have something to peer-review. I advise you to include your revised introduction and literature review sections, but the important part here is your methods section and conclusion. Here is the <a href="https://livealbany-my.sharepoint.com/:b:/g/personal/lrath_albany_edu/EW9shBYI0JtGtfrM0nDUQT4B8BFRwusBpPaImAxaSsZwag?e=2O6EJe" target="_blank">final rubric for the assignment.</a> 
     due: November 14 @ 11:59pm
 
   - title: Revise Your Introduction and Literature Review Sections
