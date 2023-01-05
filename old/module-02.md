@@ -1,5 +1,5 @@
 ---
-layout: notready
+layout: yamlmodule
 module_number: 2
 title: Research Ethics
 dates: August 30 - September 3
@@ -62,7 +62,7 @@ activities:
 
   - title: Ask Questions
     icon: person-circle-question text-teal
-    url:
+    url: 
     description: Please email me (or post to the <a href="https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_170260_1&nav=discussion_board_entry&conf_id=_276906_1&forum_id=_583025_1" target="_blank">Ask a Question discussion board</a>) any questions you have about the research proposal assignment.
     due: September 4 @ 11:59pm
 

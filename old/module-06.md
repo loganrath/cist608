@@ -1,5 +1,5 @@
 ---
-layout: notready
+layout: yamlmodule
 module_number: 6
 title: Quantitative Research & Statistical Tests
 dates:

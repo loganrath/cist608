@@ -1,5 +1,5 @@
 ---
-layout: notready
+layout: yamlmodule
 module_number: 1
 title: What is Research?
 dates: August 22 - August 29

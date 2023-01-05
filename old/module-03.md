@@ -1,5 +1,5 @@
 ---
-layout: notready
+layout: yamlmodule
 module_number: 3
 title: Research Questions
 dates: September 6 - 12

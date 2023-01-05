@@ -1,5 +1,5 @@
 ---
-layout: notready
+layout: yamlmodule
 module_number: 9
 title: Unobtrusive Research
 dates:

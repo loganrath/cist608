@@ -1,5 +1,5 @@
 ---
-layout: notready
+layout: yamlmodule
 module_number: 4
 title: Literature Reviews
 dates: September 13 - 19

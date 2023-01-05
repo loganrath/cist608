@@ -1,5 +1,5 @@
 ---
-layout: notready
+layout: yamlmodule
 module_number: 5
 title: Data Collection & Sampling
 dates:
