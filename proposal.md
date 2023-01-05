@@ -1,7 +1,7 @@
 ---
 layout: notready
-module_number: P1
-title: Proposal Intro &amp; Literature Review
+module_number: P
+title: Proposal Details
 dates:
 
 module_description: >
