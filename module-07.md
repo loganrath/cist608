@@ -1,13 +1,13 @@
 ---
-layout: notready
+layout: yamlmodule
 module_number: 7
 title: Qualitative Research
 
 module_description: This module covers the basics of qualitative research including methods, data collection, and analysis.
 
 readings:
-  - title: "Video from Logan (Module 7) (2:22)"
-    url: https://youtu.be/bqT3bcFSMv8
+  - title: "Video from Logan (Module 7)"
+    url:
     icon: play-circle text-success
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
 
@@ -36,17 +36,23 @@ activities:
     icon: user-pen text-primary
     url: https://livealbany-my.sharepoint.com/:w:/g/personal/lrath_albany_edu/ETGbbJS59VBFmoP7MOID3ZoB4aTbCFtkmH-zs0QSL3BoJQ?e=TUwVIm
     description: Practice coding this interview transcript using open, descriptive coding. You will then copy your completed table to the discussion board below.
-    due: October 24 @ 11:59pm
+    due: March 27 @ 11:59pm
 
   - title: Practice Coding Discussion board
     icon: comments text-purple
-    url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_170260_1&nav=discussion_board_entry&conf_id=_276906_1&forum_id=_595442_1
+    url: https://livealbany-my.sharepoint.com/:w:/g/personal/lrath_albany_edu/ETGbbJS59VBFmoP7MOID3ZoB4aTbCFtkmH-zs0QSL3BoJQ?e=TUwVIm
     description: Write a couple sentences about your thought process as you coded the transcript. Then, paste in your coding so that others can see what codes you applied. There is no wrong answer here. Respond to at least 2 other classmates posts.
-    due: October 24 @ 11:59pm
+    due: March 27 @ 11:59pm
 
   - title: Qualitative vs. Quantitative Discussion Board
     icon: comments text-warning
-    url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_170260_1&nav=discussion_board_entry&conf_id=_276906_1&forum_id=_595441_1
+    url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_174705_1&nav=discussion_board_entry&conf_id=_283757_1&forum_id=_613445_1
     description: Now you have learned quite a bit about qualitative and quantitative methods. In this discussion board provide your perceptions of each and what type of data collection you might be more interested in doing for your proposal. Respond to at least 3 other classmates.
-    due: October 24 @ 11:59pm
+    due: March 27 @ 11:59pm
+
+  - title: Literature Review
+    icon: file-word
+    url: https://blackboard.albany.edu/webapps/assignment/uploadAssignment?content_id=_7859515_1&course_id=_174705_1&group_id=&mode=cpview
+    description: You will submit your literature review to me. I will give you feedback and then you will re-submit it as an additional attempt.
+    due: March 27 @ 11:59pm
 ---

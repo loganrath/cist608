@@ -1,5 +1,5 @@
 ---
-layout: notready
+layout: yamlmodule
 module_number: 6
 title: Quantitative Research & Statistical Tests
 dates:
@@ -7,9 +7,9 @@ dates:
 module_description: This module lasts two weeks and covers basic quantitative research and basic statistical tests. In the first week it is recommended that you watch the overview and lecture videos, and read Sheppard chapters 8-9. In the second week it is recommended that you watch the "Statistics made easy" video, read Sheppard chapter 11 &amp; DeCarlo 12.4 and complete the Excel activities.
 
 readings:
-  - title: "(Week 1) Video from Logan (Module 6) (1:18)"
+  - title: "(Week 1) Video from Logan (Module 6)"
     icon: play-circle text-success
-    url: https://youtu.be/vRO4AuHP2gc
+    url:
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
 
   - title: "(Week 1) Lecture for Module 6 (9:12)"
@@ -79,21 +79,34 @@ supplementary:
     description: How to run a t-test in Excel with just a formula!
 
 activities:
+
+  - title: Proposal Literature Review Discussion Board
+    icon: comments text-teal
+    url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_174705_1&nav=discussion_board_entry&conf_id=_283757_1&forum_id=_613516_1
+    description: Submit your literature review (4-5 page equivalent) as a post. Copy and paste your content directly into the discussion board. Include your references at the end.
+    due: March 6 @ 11:59pm
+
   - title: "Walkthrough for Descriptive Statistics Activity (5:12)"
     icon: play-circle text-success
     url: https://youtu.be/9DG-5g8QWbk
     description: Video walkthrough of the activity with a different data set.
-    due: October 17 @ 11:59pm
+    due: March 13 @ 11:59pm
 
   - title: "Descriptive Statistics in Excel Using the Data Analysis Tool (5:35)"
     icon: brands fa-youtube text-danger
     url: https://www.youtube.com/watch?v=pfYhwy3wN14
     description: A quick way to get descriptive statistics in Excel. Includes installation instructions for Windows PCs.
-    due: October 17 @ 11:59pm
+    due: March 13 @ 11:59pm
 
   - title: "Descriptive Statistics Activity"
     icon: file-excel text-success
-    url: https://blackboard.albany.edu/webapps/blackboard/content/launchAssessment.jsp?course_id=_170260_1&content_id=_7464564_1
+    url: https://blackboard.albany.edu/webapps/assessment/take/launchAssessment.jsp?course_id=_174705_1&content_id=_7859516_1&mode=cpview
     description: For Data Set 1 - Groups, please calculate the sum, mean, median and mode for each column in the spreadsheet. For Data Set 2 - Grades, please run descriptive statistics using the Excel Data Analysis Toolpak. Watch the video above for exactly what to do.
-    due: October 17 @ 11:59pm
+    due: March 13 @ 11:59pm
+
+  - title: Literature Review Draft
+    icon: file-word
+    url: https://blackboard.albany.edu/webapps/assignment/uploadAssignment?content_id=_7859515_1&course_id=_174705_1&group_id=&mode=cpview
+    description: You will submit your literature review to me. I will give you feedback and then you will re-submit it as an additional attempt.
+    due: March 13 @ 11:59pm
 ---

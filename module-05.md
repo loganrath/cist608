@@ -1,5 +1,5 @@
 ---
-layout: notready
+layout: yamlmodule
 module_number: 5
 title: Data Collection & Sampling
 dates:
@@ -7,8 +7,8 @@ dates:
 module_description: Understanding samples and choosing appropriate methods to collect data are key to well done research studies.
 
 readings:
-  - title: "Video from Logan (Module 5) (2:17)"
-    url: https://youtu.be/Qgwlo0VjauA
+  - title: "Video from Logan (Module 5)"
+    url:
     icon: play-circle text-success
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
 
@@ -51,7 +51,25 @@ supplementary:
 activities:
   - title: Discussion Board
     icon: comments text-warning
-    url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_170260_1&nav=discussion_board_entry&conf_id=_276906_1&forum_id=_594244_1
+    url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_174705_1&nav=discussion_board_entry&conf_id=_283757_1&forum_id=_613443_1
     description: Post any questions you have about variables and sampling to the discussion board.
-    due: September 26 @ 11:59pm
+    due: February 20 @ 11:59pm
+
+  - title: Proposal Introduction Discussion Board
+    icon: comments text-teal
+    url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_174705_1&nav=discussion_board_entry&conf_id=_283757_1&forum_id=_613515_1
+    description: Submit your introduction (1-2 page equivalent) as a post. Copy and paste your content directly into the discussion board. Include your references at the end.
+    due: February 20 @ 11:59pm
+
+  - title: Proposal Introduction Draft
+    icon: file-word
+    url: https://blackboard.albany.edu/webapps/assignment/uploadAssignment?content_id=_7859513_1&course_id=_174705_1&group_id=&mode=cpview
+    description: You will submit your introduction to me. I will give you feedback and then you will re-submit it as an additional attempt.
+    due: February 27 @ 11:59pm
+
+  - title: Proposal Literature Review Discussion Board
+    icon: comments text-teal
+    url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_174705_1&nav=discussion_board_entry&conf_id=_283757_1&forum_id=_613516_1
+    description: Submit your literature review (4-5 page equivalent) as a post. Copy and paste your content directly into the discussion board. Include your references at the end.
+    due: February 27 @ 11:59pm
 ---

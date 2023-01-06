@@ -73,24 +73,30 @@ activities:
     icon: play-circle text-success
     url: https://youtu.be/Xca8f-GEy_0
     description: Watch this video for my hints on searching and sharing (EBSCO permalinks and some tips for MS Word)
-    due: February 3 @ 11:59pm
+    due: February 8 @ 11:59pm
 
   - title: Group Literature searching
     icon: users text-teal
     url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_174705_1&nav=discussion_board_entry&conf_id=_283757_1&forum_id=_613442_1
     description: Work in your groups to help each other find the best literature.
-    due: February 4 @ 11:59pm
+    due: February 11 @ 11:59pm
 
   - title: Model Paper
     icon: copy text-dark
     url: https://blackboard.albany.edu/webapps/assignment/uploadAssignment?content_id=_7859441_1&course_id=_174705_1&group_id=&mode=cpview
     description: Submit an article you will use as a model for your research proposal. This must be a field study with an introduction, literature review, and methods section.
-    due: February 6 @ 11:59pm
+    due: February 13 @ 11:59pm
 
   - title: Annotated Bibliography
     icon: file-word
     url: https://blackboard.albany.edu/webapps/assignment/uploadAssignment?content_id=_7859505_1&course_id=_174705_1&group_id=&mode=cpview
     description: Submit an annotated bibliography (see video above) from your literature searching. See the assignment handout linked in Blackboard.
-    due: February 6 @ 11:59pm
+    due: February 13 @ 11:59pm
+
+  - title: Proposal Introduction Discussion Board
+    icon: comments text-teal
+    url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_174705_1&nav=discussion_board_entry&conf_id=_283757_1&forum_id=_613515_1
+    description: Submit your introduction (1-2 page equivalent) as a post. Copy and paste your content directly into the discussion board. Include your references at the end.
+    due: February 13 @ 11:59pm
 
 ---
