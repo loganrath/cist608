@@ -46,6 +46,18 @@ readings:
     url: https://www.youtube.com/watch?v=KkAnKGuX7fs&feature=emb_logo
     description: This video provides an excellent explanation of a literature review. The video also provides tips and tricks to help you complete your assignment.
 
+  - title: Tips & Tricks from Abby Adams (15:28)
+    icon: play-circle text-success
+    url: https://youtu.be/Xe2JcP4szZw
+    description: Please watch this video from Abby Adams, our subject librarian!
+    due: February 3 @ 11:59pm
+
+  - title: Searching and Sharing Hints from Logan (4:24)
+    icon: play-circle text-success
+    url: https://youtu.be/Xca8f-GEy_0
+    description: Watch this video for my hints on searching and sharing (EBSCO permalinks and some tips for MS Word)
+    due: February 8 @ 11:59pm
+
 supplementary:
   - title: Randolph, J. (2009) A guide to writing the dissertation literature review. <em>Practical Assessment, Research, and Evaluation 14</em>, Article 13. https://doi.org/10.7275/b0az-8t74
     icon: file-pdf text-danger
@@ -63,38 +75,26 @@ supplementary:
     description: A helpful overview of a literature review for the social sciences.
 
 activities:
-  - title: Tips & Tricks from Abby Adams (15:28)
-    icon: play-circle text-success
-    url: https://youtu.be/Xe2JcP4szZw
-    description: Please watch this video from Abby Adams, our subject librarian!
-    due: February 3 @ 11:59pm
-
-  - title: Searching and Sharing Hints from Logan (4:24)
-    icon: play-circle text-success
-    url: https://youtu.be/Xca8f-GEy_0
-    description: Watch this video for my hints on searching and sharing (EBSCO permalinks and some tips for MS Word)
-    due: February 8 @ 11:59pm
-
   - title: Group Literature searching
     icon: users text-teal
     url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_174705_1&nav=discussion_board_entry&conf_id=_283757_1&forum_id=_613442_1
     description: Work in your groups to help each other find the best literature.
     due: February 11 @ 11:59pm
 
-  - title: Model Paper
-    icon: copy text-dark
-    url: https://blackboard.albany.edu/webapps/assignment/uploadAssignment?content_id=_7859441_1&course_id=_174705_1&group_id=&mode=cpview
-    description: Submit an article you will use as a model for your research proposal. This must be a field study with an introduction, literature review, and methods section.
-    due: February 13 @ 11:59pm
-
   - title: Annotated Bibliography
-    icon: file-word
+    icon: file-word text-primary
     url: https://blackboard.albany.edu/webapps/assignment/uploadAssignment?content_id=_7859505_1&course_id=_174705_1&group_id=&mode=cpview
     description: Submit an annotated bibliography (see video above) from your literature searching. See the assignment handout linked in Blackboard.
     due: February 13 @ 11:59pm
 
+  - title: Model Paper
+    icon: copy text-primary
+    url: https://blackboard.albany.edu/webapps/assignment/uploadAssignment?content_id=_7859441_1&course_id=_174705_1&group_id=&mode=cpview
+    description: Submit an article you will use as a model for your research proposal. This must be a field study with an introduction, literature review, and methods section.
+    due: February 13 @ 11:59pm
+
   - title: Proposal Introduction Discussion Board
-    icon: comments text-teal
+    icon: comments text-purple
     url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_174705_1&nav=discussion_board_entry&conf_id=_283757_1&forum_id=_613515_1
     description: Submit a One Drive link (1-2 pages) of your introduction. The link must be set so that others at UAlbany can review (but not edit) your document.
     due: February 13 @ 11:59pm

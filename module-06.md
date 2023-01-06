@@ -81,7 +81,7 @@ supplementary:
 activities:
 
   - title: Proposal Literature Review Discussion Board Responses
-    icon: comments text-teal
+    icon: comments text-purple
     url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_174705_1&nav=discussion_board_entry&conf_id=_283757_1&forum_id=_613516_1
     description: Respond to 2 classmates' submissions. Early in the week you can respond to their post with just your name in order to sign up to review their paper. Then, later in the week, create another discussion board post with feedback. If two people have already claimed someone's post, you need to pick someone else's paper. While you will provide your feedback in a discussion board post, you may also leave specific comments or questions directly on the document.
     due: March 6 @ 11:59pm
@@ -105,7 +105,7 @@ activities:
     due: March 13 @ 11:59pm
 
   - title: Literature Review Draft
-    icon: file-word
+    icon: file-word text-primary
     url: https://blackboard.albany.edu/webapps/assignment/uploadAssignment?content_id=_7859515_1&course_id=_174705_1&group_id=&mode=cpview
     description: You will submit your literature review to me. I will give you feedback and then you will re-submit it as an additional attempt.
     due: March 13 @ 11:59pm

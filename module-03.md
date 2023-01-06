@@ -49,15 +49,15 @@ supplementary:
 
 
 activities:
-  - title: Discussion Board
+  - title: Research Question Discussion Board
     icon: comments text-warning
     url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_174705_1&nav=discussion_board_entry&conf_id=_283757_1&forum_id=_613441_1
     description: <strong>Note the unique due date</strong>. Use this forum to share and give feedback on one another's research question. Title your post with your research question and in the body of your post ask for any specific feedback you would like from your peers. Give feedback to your classmates and integrate their feedback when you submit your research question.
     due: February 5 @ 11:59pm
 
   - title: Research Question
-    icon: file-word
-    url:
+    icon: file-word text-primary
+    url: https://blackboard.albany.edu/webapps/assignment/uploadAssignment?content_id=_7859438_1&course_id=_174705_1&group_id=&mode=cpview
     description: Submit the research question you will use for your proposal.
     due: February 6 @ 11:59pm
 

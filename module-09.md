@@ -35,13 +35,13 @@ activities:
     due: April 10 @ 11:59pm
 
   - title: Proposal Methods Discussion Board Responses
-    icon: comments text-warning
+    icon: comments text-purple
     url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_174705_1&nav=discussion_board_entry&conf_id=_283757_1&forum_id=_613446_1
     description: Respond to 2 classmates' submissions. Early in the week you can respond to their post with just your name in order to sign up to review their paper. Then, later in the week, create another discussion board post with feedback. If two people have already claimed someone's post, you need to pick someone else's paper. While you will provide your feedback in a discussion board post, you may also leave specific comments or questions directly on the document.
     due: April 10 @ 11:59pm
 
   - title: Proposal Conclusion Discussion Board
-    icon: comments text-warning
+    icon: comments text-purple
     url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_174705_1&nav=discussion_board_entry&conf_id=_283757_1&forum_id=_613517_1
     description: Submit a One Drive link (1-2 pages) to your conclusion. You are welcome to use the same link as your other submissions if you want to keep building on the document. The link must be set so that People in University at Albany - SUNY with the link can review.
     due: April 10 @ 11:59pm

@@ -39,7 +39,7 @@ activities:
     due: March 27 @ 11:59pm
 
   - title: Practice Coding Discussion board
-    icon: comments text-purple
+    icon: comments text-warning
     url: https://livealbany-my.sharepoint.com/:w:/g/personal/lrath_albany_edu/ETGbbJS59VBFmoP7MOID3ZoB4aTbCFtkmH-zs0QSL3BoJQ?e=TUwVIm
     description: Write a couple sentences about your thought process as you coded the transcript. Then, paste in your coding so that others can see what codes you applied. There is no wrong answer here. Respond to at least 2 other classmates posts.
     due: March 27 @ 11:59pm
@@ -51,7 +51,7 @@ activities:
     due: March 27 @ 11:59pm
 
   - title: Literature Review
-    icon: file-word
+    icon: file-word text-primary
     url: https://blackboard.albany.edu/webapps/assignment/uploadAssignment?content_id=_7859515_1&course_id=_174705_1&group_id=&mode=cpview
     description: You will submit your literature review to me. I will give you feedback and then you will re-submit it as an additional attempt.
     due: March 27 @ 11:59pm
