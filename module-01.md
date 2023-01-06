@@ -2,7 +2,6 @@
 layout: yamlmodule
 module_number: 1
 title: What is Research?
-dates: August 22 - August 29
 
 module_description: >
   For this first module you will learn what research is as well as why research projects are carried out in specific ways, based on the underlying beliefs of the researchers.
