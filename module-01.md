@@ -38,7 +38,7 @@ readings:
     description: Skim this one. Under each paradigm, the authors provide criteria for evaluating research.
 
 supplementary:
-  - title: "Bhattacherjee, A. (2019). <em>Social science research: Principles, methods, and practices</em> (Revised edition)."
+  - title: Bhattacherjee, Ch. 1, "Science and Scientific Research"
     icon: book-atlas text-purple
     url:  https://usq.pressbooks.pub/socialscienceresearch/chapter/chapter-1-science-and-scientific-research/
     description: Bhattacherjee provides some useful information about the role of research in science.
