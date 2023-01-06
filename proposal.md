@@ -76,22 +76,22 @@ activities:
     due: February 13 @ 11:59pm
 
   - title: Introduction
-    icon: comments text-gold
+    icon: 1 text-purple
     description: Submit your introduction to the appropriate discussion board, give feedback to your classmates, and then submit a revised introduction.
     due: February 13 @ 11:59pm
 
   - title: Literature Review
-    icon: comments text-gold
+    icon: 2 text-purple
     description: Submit your literature review to the appropriate discussion board, give feedback to your classmates, and then submit a revised literature review.
     due: March 27 @ 11:59pm
 
   - title: Methods section
-    icon: comments text-gold
+    icon: 3 text-purple
     description: Submit your methods section to the appropriate discussion board, give feedback to your classmates, and then submit a revised methods section.
     due: April 24 @ 11:59pm
 
   - title: Conclusion
-    icon: comments text-gold
+    icon: 4 text-purple
     description: Submit your conclusion to the appropriate discussion board, give feedback to your classmates, and then submit a revised methods section.
     due: May 1 @ 11:59pm
 
