@@ -8,7 +8,7 @@ module_description: This module will cover the basics of developing a research q
 
 readings:
   - title: Video from Logan (Module 3)
-    url: https://www.youtube.com/watch?v=yg2faJxlnXA
+    url:
     icon: play-circle text-success
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
 
@@ -52,14 +52,14 @@ supplementary:
 activities:
   - title: Discussion Board
     icon: comments text-warning
-    url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_170260_1&nav=discussion_board_entry&conf_id=_276906_1&forum_id=_593112_1
-    description: Use this forum to share and give feedback on one another's research question. Title your post with your research question and in the body of your post ask for any specific feedback you would like from your peers. Give feedback to your classmates and integrate their feedback when you submit your research question.
-    due: September 10 @ 11:59pm
+    url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_174705_1&nav=discussion_board_entry&conf_id=_283757_1&forum_id=_613441_1
+    description: <strong>Note the unique due date</strong>. Use this forum to share and give feedback on one another's research question. Title your post with your research question and in the body of your post ask for any specific feedback you would like from your peers. Give feedback to your classmates and integrate their feedback when you submit your research question.
+    due: February 5 @ 11:59pm
 
   - title: Research Question
     icon: file-word
-    url: https://blackboard.albany.edu/webapps/assignment/uploadAssignment?content_id=_7449478_1&course_id=_170260_1&group_id=&mode=view
+    url:
     description: Submit the research question you will use for your proposal.
-    due: September 12 @ 11:59pm
+    due: February 6 @ 11:59pm
 
 ---
