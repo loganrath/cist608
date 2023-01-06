@@ -1,14 +1,14 @@
 ---
-layout: notready
+layout: yamlmodule
 module_number: 2
 title: Research Ethics
 dates: August 30 - September 3
 
-module_description: Ethics are important to make sure that we do not harm participants. Ethics covers content such as safety, privacy, confidentiality, and respect for participants.
+module_description: <div class="alert alert-info">This module is not complete yet and is subject to change.</div>Ethics are important to make sure that we do not harm participants. Ethics covers content such as safety, privacy, confidentiality, and respect for participants.
 
 readings:
-  - title: Video from Logan (Module 2) (4:31)
-    url: https://youtu.be/VsjeFvsTDIY
+  - title: Video from Logan (Module 2)
+    url:
     icon: play-circle text-success
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
 
@@ -37,6 +37,11 @@ readings:
     url: https://digitalcommons.du.edu/collaborativelibrarianship/vol7/iss2/4/
     description: This article gives a good overview of how IRBs work in practice as well as three potential ways a librarian could be involved with an IRB.
 
+  - title: "Du, J. T., & Chu, C. M. (2022). Toward community-engaged information behavior research: A methodological framework. <em>Library & Information Science Research,</em> 101189."
+    icon: file-pdf text-danger
+    url: https://doi.org/10.1016/j.lisr.2022.101189
+    description: This article gives an a framework for doing research with an indigenous population.
+
   - title: Smith, C. S. (2018). IRB is not required. <em>Curriculum & Teaching Dialogue, 20</em>(1/2), 137-142.
     icon: file-pdf text-danger
     url: https://libproxy.albany.edu/login?url=https://search.ebscohost.com/login.aspx?direct=true&AuthType=ip,sso&db=a2h&AN=131343488&site=ehost-live
@@ -58,12 +63,17 @@ activities:
     icon: clipboard-question text-primary
     url: https://www.albany.edu/orrc/irb-training.php
     description: This certificate is required by UA in order to complete human subjects research. There are several modules with quizzes at each. <strong>Upload your certificate to Blackboard</strong>.
-    due: September 4 @ 11:59pm
+    due: January 30 @ 11:59pm
+
+  - title: Marginalized Populations Research
+    icon: comments text-gold
+    url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_174705_1&nav=discussion_board_entry&conf_id=_283757_1&forum_id=_613448_1
+    description: You will find an article that deals with doing research with a marginalized community, summarize it (50-100 words) and then explain for everyone how the researchers conducted their study ethically. Then, respond to two classmates.
+    due: January 30 @ 11:59pm
 
   - title: Ask Questions
     icon: person-circle-question text-teal
-    url:
     description: Please email me (or post to the <a href="https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_170260_1&nav=discussion_board_entry&conf_id=_276906_1&forum_id=_583025_1" target="_blank">Ask a Question discussion board</a>) any questions you have about the research proposal assignment.
-    due: September 4 @ 11:59pm
+    due: January 30 @ 11:59pm
 
 ---
