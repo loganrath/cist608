@@ -7,7 +7,7 @@ dates:
 module_description: Understanding samples and choosing appropriate methods to collect data are key to well done research studies.
 
 readings:
-  - title: "Video from Logan (Module 5)"
+  - title: "Video from Dr. Rath (Module 5)"
     url:
     icon: play-circle text-success
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
@@ -55,11 +55,10 @@ activities:
     description: Post any questions you have about variables and sampling to the discussion board.
     due: February 20 @ 11:59pm
 
-  - title: Proposal Introduction Discussion Board
+  - title: Proposal Introduction Discussion Board Responses
     icon: comments text-teal
     url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_174705_1&nav=discussion_board_entry&conf_id=_283757_1&forum_id=_613515_1
-    description: Submit your introduction (1-2 page equivalent) as a post. Copy and paste your content directly into the discussion board. Include your references at the end.
-    due: February 20 @ 11:59pm
+    description: Respond to 2 classmates' submissions. Early in the week you can respond to their post with just your name in order to sign up to review their paper. Then, later in the week, create another discussion board post with feedback. If two people have already claimed someone's post, you need to pick someone else's paper. While you will provide your feedback in a discussion board post, you may also leave specific comments or questions directly on the document.
 
   - title: Proposal Introduction Draft
     icon: file-word
@@ -70,6 +69,6 @@ activities:
   - title: Proposal Literature Review Discussion Board
     icon: comments text-teal
     url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_174705_1&nav=discussion_board_entry&conf_id=_283757_1&forum_id=_613516_1
-    description: Submit your literature review (4-5 page equivalent) as a post. Copy and paste your content directly into the discussion board. Include your references at the end.
+    description: Submit a One Drive link (4-5 pages) of your literature review. The link must be set so that others at UAlbany can review (but not edit) your document.
     due: February 27 @ 11:59pm
 ---

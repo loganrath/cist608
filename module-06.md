@@ -7,7 +7,7 @@ dates:
 module_description: This module lasts two weeks and covers basic quantitative research and basic statistical tests. In the first week it is recommended that you watch the overview and lecture videos, and read Sheppard chapters 8-9. In the second week it is recommended that you watch the "Statistics made easy" video, read Sheppard chapter 11 &amp; DeCarlo 12.4 and complete the Excel activities.
 
 readings:
-  - title: "(Week 1) Video from Logan (Module 6)"
+  - title: "(Week 1) Video from Dr. Rath (Module 6)"
     icon: play-circle text-success
     url:
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
@@ -80,10 +80,10 @@ supplementary:
 
 activities:
 
-  - title: Proposal Literature Review Discussion Board
+  - title: Proposal Literature Review Discussion Board Responses
     icon: comments text-teal
     url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_174705_1&nav=discussion_board_entry&conf_id=_283757_1&forum_id=_613516_1
-    description: Submit your literature review (4-5 page equivalent) as a post. Copy and paste your content directly into the discussion board. Include your references at the end.
+    description: Respond to 2 classmates' submissions. Early in the week you can respond to their post with just your name in order to sign up to review their paper. Then, later in the week, create another discussion board post with feedback. If two people have already claimed someone's post, you need to pick someone else's paper. While you will provide your feedback in a discussion board post, you may also leave specific comments or questions directly on the document.
     due: March 6 @ 11:59pm
 
   - title: "Walkthrough for Descriptive Statistics Activity (5:12)"

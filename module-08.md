@@ -1,5 +1,5 @@
 ---
-layout: notready
+layout: yamlmodule
 module_number: 8
 title: Methods & Instruments
 dates:
@@ -7,7 +7,7 @@ dates:
 module_description: This module finishes up what you need to know about methods as well as locating existing instruments.
 
 readings:
-  - title: "Video from Logan (Module 8)"
+  - title: "Video from Dr. Rath (Module 8)"
     url:
     icon: play-circle text-success
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
@@ -41,24 +41,13 @@ activities:
   - title: Finding Measures
     icon: magnifying-glass text-purple
     description: You will spend some time searching for existing measures (e.g. interview, questionnaire, survey, etc.) that aligns with you research question.
-    due: October 28 @ 11:59pm
+    due: April 1 @ 11:59pm
 
-  - title: Methods discussion board
+  - title: Proposal Methods Discussion Board
     icon: comments text-warning
-    url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_170260_1&nav=discussion_board_entry&conf_id=_276906_1&forum_id=_595827_1
-    description: In this discussion board, you will discuss the instrument you are thinking of using as well as provide feedback to your classmates and suggestions.
-    due: October 31 @ 11:59pm
+    url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_174705_1&nav=discussion_board_entry&conf_id=_283757_1&forum_id=_613446_1
+    description: Submit a One Drive link (4-5 pages) to your methods section. Your methods section must contain both your methods as well as any appendices (included after your references). You are welcome to use the same link as your other submissions if you want to keep building on the document. The link must be set so that People in University at Albany - SUNY with the link can review.
+    due: April 3 @ 11:59pm
 
-  - title: Methods Outline
-    icon: file-word text-primary
-    url: https://blackboard.albany.edu/webapps/assignment/uploadAssignment?content_id=_7493603_1&course_id=_170260_1&group_id=&mode=cpview
-    description: You will submit the outline of your methods section which includes your potential participants, how you will recruit them, your specific research design, a detailed description of the protocol you will follow, plans for analyzing your data, your positionality, and potential limitations you forsee.
-    due: October 31 @ 11:59pm
-
-  - title: Instrument Draft
-    icon: file-word text-primary
-    url: https://blackboard.albany.edu/webapps/assignment/uploadAssignment?content_id=_7493605_1&course_id=_170260_1&group_id=&mode=cpview
-    description: You will submit a draft of your data collection instrument. This would be your interview questions, your survey questions, or any other instrument you plan to use to gather data to answer your question.
-    due: October 31 @ 11:59pm
 
 ---

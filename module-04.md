@@ -6,7 +6,7 @@ title: Literature Reviews
 module_description: Writing a literature review is an essential component of any research proposal. This module will prepare you to complete one major section of your proposal.
 
 readings:
-  - title: Video from Logan (Module 4)
+  - title: Video from Dr. Rath (Module 4)
     url:
     icon: play-circle text-success
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
@@ -96,7 +96,7 @@ activities:
   - title: Proposal Introduction Discussion Board
     icon: comments text-teal
     url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_174705_1&nav=discussion_board_entry&conf_id=_283757_1&forum_id=_613515_1
-    description: Submit your introduction (1-2 page equivalent) as a post. Copy and paste your content directly into the discussion board. Include your references at the end.
+    description: Submit a One Drive link (1-2 pages) of your introduction. The link must be set so that others at UAlbany can review (but not edit) your document.
     due: February 13 @ 11:59pm
 
 ---

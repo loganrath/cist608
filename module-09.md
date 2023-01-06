@@ -1,5 +1,5 @@
 ---
-layout: notready
+layout: yamlmodule
 module_number: 9
 title: Unobtrusive Research
 dates:
@@ -7,8 +7,8 @@ dates:
 module_description: This module covers unobtrusive research where you do not interact with the subject.
 
 readings:
-  - title: "Video from Logan (Module 9) (1:13)"
-    url: https://youtu.be/J8IRsXBNwcA
+  - title: "Video from Dr. Rath (Module 9)"
+    url:
     icon: play-circle text-success
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
 
@@ -30,15 +30,20 @@ readings:
 activities:
   - title: Unobtrusive Methods Discussion Board
     icon: comments text-warning
-    url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_170260_1&nav=discussion_board_entry&conf_id=_276906_1&forum_id=_596116_1
+    url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_174705_1&nav=discussion_board_entry&conf_id=_283757_1&forum_id=_613447_1
     description: How could you redesign your study, or create a related study, that used an unobtrusive method? Respond to at least two classmates.
-    due: November 7 @ 11:59pm
+    due: April 10 @ 11:59pm
 
-  - title: Methods Section
-    icon: pen-fancy text-purple
-    url: https://youtu.be/gsDtLvDE1Iw
-    description: Spend time working on your methods section and contact me if you have any questions.
-    due: November 14 @ 11:59pm
+  - title: Proposal Methods Discussion Board Responses
+    icon: comments text-warning
+    url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_174705_1&nav=discussion_board_entry&conf_id=_283757_1&forum_id=_613446_1
+    description: Respond to 2 classmates' submissions. Early in the week you can respond to their post with just your name in order to sign up to review their paper. Then, later in the week, create another discussion board post with feedback. If two people have already claimed someone's post, you need to pick someone else's paper. While you will provide your feedback in a discussion board post, you may also leave specific comments or questions directly on the document.
+    due: April 10 @ 11:59pm
 
+  - title: Proposal Conclusion Discussion Board
+    icon: comments text-warning
+    url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_174705_1&nav=discussion_board_entry&conf_id=_283757_1&forum_id=_613517_1
+    description: Submit a One Drive link (1-2 pages) to your conclusion. You are welcome to use the same link as your other submissions if you want to keep building on the document. The link must be set so that People in University at Albany - SUNY with the link can review.
+    due: April 10 @ 11:59pm
 
 ---

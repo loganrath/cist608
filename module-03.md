@@ -6,7 +6,7 @@ title: Research Questions
 module_description: This module will cover the basics of developing a research question that will guide your proposal creation for the rest of the semester.
 
 readings:
-  - title: Video from Logan (Module 3)
+  - title: Video from Dr. Rath (Module 3)
     url:
     icon: play-circle text-success
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.

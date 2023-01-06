@@ -1,5 +1,5 @@
 ---
-layout: notready
+layout: yamlmodule
 module_number: 10
 title: Writing Up Research
 dates:
@@ -7,8 +7,8 @@ dates:
 module_description: This module covers some writing tips and tricks.
 
 readings:
-  - title: "Video from Logan (Module 10) (2:59)"
-    url: https://youtu.be/An9aVOSGIEc
+  - title: "Video from Logan (Module 10)"
+    url:
     icon: play-circle text-success
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
 
@@ -44,15 +44,34 @@ supplementary:
     description: A really helpful knowledge base of academic writing tips and tricks. Check out the <a href="https://www.scribbr.com/academic-writing/transition-words/" target="_blank">transitions words</a> page or the <a href="https://www.scribbr.com/apa-style/methods-section/" target="_blank">methods</a>, for example.
 
 activities:
-  - title: Draft of Full Proposal with Methods and Conclusion
-    icon: file-word text-primary
-    url: https://blackboard.albany.edu/webapps/assignment/uploadAssignment?content_id=_7504068_1&course_id=_170260_1&group_id=&mode=cpview
-    description: This is the first draft of your proposal which includes your introduction, literature review, methods and conclusion. See the Proposal Outline document for specific instructions. This is just a drop box so that you have something to peer-review. I advise you to include your revised introduction and literature review sections, but the important part here is your methods section and conclusion. Here is the <a href="https://livealbany-my.sharepoint.com/:b:/g/personal/lrath_albany_edu/EW9shBYI0JtGtfrM0nDUQT4B8BFRwusBpPaImAxaSsZwag?e=2O6EJe" target="_blank">final rubric for the assignment.</a>
-    due: November 14 @ 11:59pm
+  - title: Proposal Conclusion Discussion Board Responses
+    icon: comments text-warning
+    url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_174705_1&nav=discussion_board_entry&conf_id=_283757_1&forum_id=_613517_1
+    description: Respond to 2 classmates' submissions. Early in the week you can respond to their post with just your name in order to sign up to review their paper. Then, later in the week, create another discussion board post with feedback. If two people have already claimed someone's post, you need to pick someone else's paper. While you will provide your feedback in a discussion board post, you may also leave specific comments or questions directly on the document.
+    due: April 19 @ 11:59pm
 
-  - title: Revise Your Introduction and Literature Review Sections
-    icon: file-word text-primary
-    url: https://blackboard.albany.edu
-    description: You must make the changes from my feedback to your introduction and literature review sections. You must also add a cover letter to your final draft (not due for peer-review) that explains how you made the changes. This only needs to be 1 paragraph that lets me know you read and made the changes. It should not be a list of the specific changes, but rather an overall summary of how you modified the sections. There is no drop box for this at this time, but you will include it on your final submission.
-    due: December 5 @ 11:59pm
+  - title: Methods Draft
+    icon: file-word
+    url: https://blackboard.albany.edu/webapps/assignment/uploadAssignment?content_id=_7859695_1&course_id=_174705_1&group_id=&mode=cpview
+    description: You will submit your methods section and instrument(s) (as appendices) to me. I will give you feedback and then you will re-submit it as an additional attempt.
+    due: April 19 @ 11:59pm
+
+  - title: Conclusion Draft
+    icon: file-word
+    url: https://blackboard.albany.edu/webapps/assignment/uploadAssignment?content_id=_7859696_1&course_id=_174705_1&group_id=&mode=cpview
+    description: You will submit your conclusion to me. I will give you feedback and then you will re-submit it as an additional attempt.
+    due: April 24 @ 11:59pm
+
+  - title: Showcase Presentation
+    icon: file-powerpoint text-primary
+    url:
+    description: This is a placeholder for your showcase presentation.
+    due: April 24 @ 11:59pm
+
+  - title: Final Proposal Submission
+    icon: file-word
+    url:
+    description: Your full proposal in APA format will be due.
+    due: May 2 @ 11:59pm
+
 ---
