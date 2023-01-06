@@ -13,9 +13,9 @@ readings:
     url:
     description: This video will introduce you to the course and my expectations.
 
-  - title: Syllabus (as of 01/04/23)
+  - title: Syllabus (as of 01/05/23)
     icon: file-pdf text-danger
-    url: https://livealbany-my.sharepoint.com/:b:/g/personal/lrath_albany_edu/EehyuGnEAgROjKGjA8NY9hsBt6FHaG5iz1ZiPB_3wZEX8w?e=nRKbTk
+    url: https://livealbany-my.sharepoint.com/:b:/g/personal/lrath_albany_edu/EcsSJ7anLz1DkRbqKRr7OrkBVGoZy9Qk1gAHES-kAXd5Hg?e=NgI4xz
     description: Contains course information, schedule, grading, and policies.
 
   - title: Proposal Instructions

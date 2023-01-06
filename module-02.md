@@ -39,7 +39,7 @@ readings:
 
   - title: "Du, J. T., & Chu, C. M. (2022). Toward community-engaged information behavior research: A methodological framework. <em>Library & Information Science Research,</em> 101189."
     icon: file-pdf text-danger
-    url: https://doi.org/10.1016/j.lisr.2022.101189
+    url: https://search.library.albany.edu/permalink/01SUNY_ALB/1gnucdc/cdi_crossref_primary_10_1016_j_lisr_2022_101189
     description: This article gives an a framework for doing research with an indigenous population.
 
   - title: Smith, C. S. (2018). IRB is not required. <em>Curriculum & Teaching Dialogue, 20</em>(1/2), 137-142.
