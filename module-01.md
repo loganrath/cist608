@@ -10,7 +10,7 @@ module_description: >
 readings:
   - title: Video from Logan (Module 1) (2:30)
     icon: play-circle text-success
-    url: https://youtu.be/TPQDYzarcWA
+    url:
     description: This is a quick video that explains how the module is organized.
 
   - title: Lecture for Module 1 (15:24)
@@ -51,7 +51,7 @@ supplementary:
 
 activities:
   - title: Discussion Board
-    due: August 29 @ 11:59pm
+    due: January 23 @ 11:59pm
     url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_170260_1&nav=discussion_board_entry&conf_id=_276906_1&forum_id=_590089_1
     icon: comments text-warning
     description: Participate in this week's discussion board where you will tell us which research paradigm most resonates with you and why. Respond to your classmates noting similarities and differences. Elaborate on how that might effect any potential collaboration. You may start a second thread asking any questions you have about the readings.
