@@ -5,23 +5,33 @@ title: Proposal Details
 dates:
 
 module_description: >
-  This module has resources that help you with your proposal and literature review. These are resources you've already used, but are linked here for your convenience.
+  This module has resources that help you with your proposal. These are resources that will appear in other modules, but are linked here for your convenience.
 
 readings:
-  - title: Overview Slides for Part 1 of Your Proposal
-    icon: file-pdf text-danger
-    url: https://livealbany-my.sharepoint.com/:b:/g/personal/lrath_albany_edu/EVpW2KxPOYZPmkVcQEf8w8EBYWNwHFBmEQz_ZklJ1DWAfw?e=OTg2wo
-    description: Here are some slides as a review.
-
   - title: Proposal Instructions
     icon: file-pdf text-danger
-    url: https://livealbany-my.sharepoint.com/:b:/g/personal/lrath_albany_edu/EVxeEKuLWOBAor3Kuh2K2y4BmJZ-CpGNg5vvSe2GDKOBHw?e=AJ9odl
+    url: https://livealbany-my.sharepoint.com/:b:/g/personal/lrath_albany_edu/EclHRXpO6ZRGl5YLyc5PN1oBOlAXE2w4a-8yKTvK4KOIAQ?e=TOP815
     description: This document explains the proposal project that is worth 60% of your final grade in this course. Rubric included.
+
+  - title: Overview Slides for Introduction &amp; Literature Review
+    icon: file-pdf text-danger
+    url: https://livealbany-my.sharepoint.com/:b:/g/personal/lrath_albany_edu/EVpW2KxPOYZPmkVcQEf8w8EBYWNwHFBmEQz_ZklJ1DWAfw?e=OTg2wo
+    description: Here are some slides as a review for the Introduction &amp; Literature Review. In previous versions of the course this was known as part 1.
+
+  - title: "Methods Section Overview (2:11)"
+    url: https://youtu.be/gsDtLvDE1Iw
+    icon: play-circle text-success
+    description: This video will explain what goes into your methods section.
 
   - title: Sheppard, Ch. 14, "The Research Proposal"
     icon: book-atlas text-purple
     url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter-13-2/
     description: This chapter will give you a general idea of what's involved in your final project.
+
+  - title: Slides for Academic Writing
+    url: https://livealbany-my.sharepoint.com/:b:/g/personal/lrath_albany_edu/EbZNTjEJn9RNofLTXPmMDbMByg-UgZ8Yp6dAowI2okR5LA?e=z6k8QO
+    icon: play-circle text-success
+    description: Slides from the above video.
 
 supplementary:
   - title: APA Paper Format
@@ -55,22 +65,34 @@ supplementary:
     description: This page will help you cite specific sources. You can also use the APA Style page listed under Course Resources above.
 
 activities:
-  - title: Draft of Introduction &amp; Literature Review
+  - title: Research Question
     icon: pen-fancy text-purple
-    url: https://blackboard.albany.edu/webapps/assignment/uploadAssignment?content_id=_7472769_1&course_id=_170260_1&group_id=&mode=cpview
-    description: You will draft your introduction and literature review that are part of your final submission.
-    due: October 4 @ 11:59pm
+    description: Submit your research question using "Write Submission." See module 3.
+    due: February 6 @ 11:59pm
 
-  - title: Peer Review of Introduction &amp; Literature Review
-    icon: users text-gold
-    url: https://blackboard.albany.edu/webapps/assignment/uploadAssignment?content_id=_7480755_1&course_id=_170260_1&group_id=&mode=cpview
-    description: You will swap drafts with one other student and they will provide you peer feedback on the draft of your introduction and literature review.
-    due: October 12 @ 11:59pm
+  - title: Annotated Bibliography
+    icon: pen-fancy text-purple
+    description: Submit your annotated bibliography as a Word doc. See Module 4.
+    due: February 13 @ 11:59pm
 
-  - title: Draft of your introduction and literature review for peer review
-    due: October 17 @ 11:59pm
-    url: https://blackboard.albany.edu/webapps/assignment/uploadAssignment?content_id=_7484391_1&course_id=_170260_1&group_id=&mode=cpview
-    icon: file-word text-primary
-    description: Submit your draft of your introduction and literature review sections.
+  - title: Introduction
+    icon: comments text-gold
+    description: Submit your introduction to the appropriate discussion board, give feedback to your classmates, and then submit a revised introduction.
+    due: February 13 @ 11:59pm
+
+  - title: Literature Review
+    icon: comments text-gold
+    description: Submit your literature review to the appropriate discussion board, give feedback to your classmates, and then submit a revised literature review.
+    due: March 27 @ 11:59pm
+
+  - title: Methods section
+    icon: comments text-gold
+    description: Submit your methods section to the appropriate discussion board, give feedback to your classmates, and then submit a revised methods section.
+    due: April 24 @ 11:59pm
+
+  - title: Conclusion
+    icon: comments text-gold
+    description: Submit your conclusion to the appropriate discussion board, give feedback to your classmates, and then submit a revised methods section.
+    due: May 1 @ 11:59pm
 
 ---
