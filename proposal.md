@@ -1,5 +1,5 @@
 ---
-layout: notready
+layout: yamlmodule
 module_number: P
 title: Proposal Details
 dates:
