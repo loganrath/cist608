@@ -8,15 +8,20 @@ module_description: >
   This module will introduce you to the course expectations and major assignment.
 
 readings:
-  - title: Introduction Video from Logan
+  - title: "Introduction Video from Logan (4:45)"
     icon: circle-play text-success
-    url:
-    description: This video will introduce you to the course and my expectations.
+    url: https://youtu.be/CW59pvSBOac
+    description: This video will introduce you to the layout of the course.
 
   - title: Syllabus (as of 01/09/23)
     icon: file-pdf text-danger
     url: https://livealbany-my.sharepoint.com/:b:/g/personal/lrath_albany_edu/Eet_BNkOc7tAsSDEKexWU1kB5N22-IFWR9vr6oWnmqRGZg?e=ejzy4t
     description: Contains course information, schedule, grading, and policies.
+
+  - title: "Syllabus Review Video (9:20)"
+    icon: circle-play text-success
+    url: https://youtu.be/JcVxynd6uDE
+    description: This video will go over the syllabus and my expectations.
 
   - title: Proposal Instructions
     icon: file-pdf text-danger
