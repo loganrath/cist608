@@ -9,7 +9,7 @@ module_description: >
 readings:
   - title: Video from Dr. Rath (Module 1)
     icon: play-circle text-success
-    url:
+    url: https://youtu.be/rArSLgLIAYk
     description: This is a quick video that explains how the module is organized.
 
   - title: Lecture for Module 1 (15:24)
