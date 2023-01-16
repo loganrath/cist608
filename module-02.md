@@ -12,7 +12,7 @@ readings:
     icon: play-circle text-success
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
 
-  - title: Lecture for Module 2 (10:52)
+  - title: "Lecture for Module 2 (10:52)"
     url: https://youtu.be/cq1ocAPWCno
     icon: play-circle text-success
     description: This video gives an overview of research ethics and the IRB process.
