@@ -59,11 +59,7 @@ supplementary:
     description: The common rule that governs what <em>is</em> Research.
 
 activities:
-  - title: CITI Training
-    icon: clipboard-question text-primary
-    url: https://www.albany.edu/orrc/irb-training.php
-    description: This certificate is required by UA in order to complete human subjects research. You must complete the entire 13 module course, <strong>IRB: Human Subject Research (Investigators, Advisors)</strong>. When finished, upload your certificate to Blackboard.
-    due: January 30 @ 11:59pm
+
 
   - title: Marginalized Populations Research
     icon: comments text-gold
