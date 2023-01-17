@@ -22,12 +22,12 @@ readings:
     url: https://livealbany-my.sharepoint.com/:b:/g/personal/lrath_albany_edu/EWbhtDgrBmZOtLheMm_TYD0BGWmz3XFvPfkWMlmJw-PHzg?e=DtNyny
     description: PDF of the slides from the lecture
 
-  - title: Sheppard, Ch. 14, "The Research Proposal"
+  - title: "Sheppard, Ch. 14, The Research Proposal"
     icon: book-atlas text-purple
     url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter-13-2/
     description: This chapter will give you a general idea of what's involved in your final project.
 
-  - title: Sheppard, Ch. 2, "Research Ethics"
+  - title: "Sheppard, Ch. 2, Research Ethics"
     icon: book-atlas text-purple
     url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter-2/
     description: Sheppard covers the basics that will prepare you to complete the CITI training.
@@ -59,7 +59,11 @@ supplementary:
     description: The common rule that governs what <em>is</em> Research.
 
 activities:
-
+  - title: CITI Training
+    icon: clipboard-question text-primary
+    url: https://www.albany.edu/orrc/irb-training.php
+    description: "This certificate is required by UA in order to complete human subjects research. You must complete the entire 13 module course, <strong>IRB: Human Subject Research (Investigators, Advisors)</strong>. When finished, upload your certificate to Blackboard."
+    due: January 30 @ 11:59pm
 
   - title: Marginalized Populations Research
     icon: comments text-gold
