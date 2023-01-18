@@ -13,9 +13,9 @@ readings:
     url: https://youtu.be/CW59pvSBOac
     description: This video will introduce you to the layout of the course.
 
-  - title: Syllabus (as of 01/09/23)
+  - title: Syllabus (as of 01/17/23)
     icon: file-pdf text-danger
-    url: https://livealbany-my.sharepoint.com/:b:/g/personal/lrath_albany_edu/Eet_BNkOc7tAsSDEKexWU1kB5N22-IFWR9vr6oWnmqRGZg?e=ejzy4t
+    url: https://livealbany-my.sharepoint.com/:b:/g/personal/lrath_albany_edu/EWBMI-lNfeNEot7aj4nh_QkBir_OJMpg2XoIfRFoLo2Q6g?e=aQwhzU
     description: Contains course information, schedule, grading, and policies.
 
   - title: "Syllabus Review Video (9:20)"
