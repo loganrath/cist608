@@ -7,7 +7,7 @@ module_description: >
   For this first module you will learn what research is as well as why research projects are carried out in specific ways, based on the underlying beliefs of the researchers.
 
 readings:
-  - title: Video from Dr. Rath (Module 1)
+  - title: "Video from Dr. Rath (Module 1) (1:47)"
     icon: play-circle text-success
     url: https://youtu.be/rArSLgLIAYk
     description: This is a quick video that explains how the module is organized.
