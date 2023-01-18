@@ -19,3 +19,4 @@ activities:
     icon: file-powerpoint text-purple
     description: Upload your Showcase powerpoint to XYZ.
     due: April 24 @ 11:59pm
+---
