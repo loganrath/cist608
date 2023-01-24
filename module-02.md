@@ -7,8 +7,8 @@ dates: August 30 - September 3
 module_description: <div class="alert alert-info">This module is not complete yet and is subject to change.</div>Ethics are important to make sure that we do not harm participants. Ethics covers content such as safety, privacy, confidentiality, and respect for participants.
 
 readings:
-  - title: Video from Dr. Rath (Module 2)
-    url:
+  - title: "Video from Dr. Rath (Module 2) (3:56)"
+    url: https://youtu.be/OJTwef9H4kg
     icon: play-circle text-success
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
 
