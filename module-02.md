@@ -4,7 +4,7 @@ module_number: 2
 title: Research Ethics
 dates: August 30 - September 3
 
-module_description: <div class="alert alert-info">This module is not complete yet and is subject to change.</div>Ethics are important to make sure that we do not harm participants. Ethics covers content such as safety, privacy, confidentiality, and respect for participants.
+module_description: Ethics are important to make sure that we do not harm participants. Ethics covers content such as safety, privacy, confidentiality, and respect for participants.
 
 readings:
   - title: "Video from Dr. Rath (Module 2) (3:56)"
