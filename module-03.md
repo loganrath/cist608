@@ -31,10 +31,10 @@ readings:
     url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter-4/
     description: This chapter covers variables as well as reliability and validity.
 
-  - title: DeCarlo, Ch. 8, "Creating and Refining a Research Question"
+  - title: Bhattacherjee, Ch. 4, "Theories in Scientific Research"
     icon: book-atlas text-purple
-    url: https://scientificinquiryinsocialwork.pressbooks.com/chapter/8-0-chapter-introduction/
-    description: DeCarlo provides an overview of writing a good research question <strong><em>with some specific tips and critiques</em></strong> as well as explanations that augment Sheppard's content.
+    url: https://usq.pressbooks.pub/socialscienceresearch/chapter/chapter-4-theories-in-scientific-research/
+    description: This chapter connects directly to the the course objectives and helps you understand what makes a good theory. It also provides examples of theories for you to see.
 
   - title: Scribbr, "Developing Strong Research Questions"
     icon: link text-primary
@@ -46,6 +46,11 @@ supplementary:
     icon: book-atlas text-purple
     url: https://usq.pressbooks.pub/socialscienceresearch/chapter/chapter-6-measurement-of-constructs/
     description: Provides a thorough walkthrough of variable types and scales.
+
+  - title: DeCarlo, Ch. 8, "Creating and Refining a Research Question"
+    icon: book-atlas text-purple
+    url: https://scientificinquiryinsocialwork.pressbooks.com/chapter/8-0-chapter-introduction/
+    description: DeCarlo provides an overview of writing a good research question <strong><em>with some specific tips and critiques</em></strong> as well as explanations that augment Sheppard's content.
 
 
 activities:
