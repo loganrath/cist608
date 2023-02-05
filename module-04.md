@@ -52,11 +52,15 @@ readings:
     description: Please watch this video from Abby Adams, our subject librarian!
     due: February 3 @ 11:59pm
 
+  - title: What is a Literature Review from Abby Adams (7:07)
+    icon: play-circle text-success
+    url: https://www.youtube.com/watch?v=T71aeOP9A6A
+    description: This video from Abby will give you an idea of what happens in a literature review. You are writing a literature review that is one section of a larger paper.
+
   - title: Searching and Sharing Hints from Logan (4:24)
     icon: play-circle text-success
     url: https://youtu.be/Xca8f-GEy_0
     description: Watch this video for my hints on searching and sharing (EBSCO permalinks and some tips for MS Word)
-    due: February 8 @ 11:59pm
 
 supplementary:
   - title: Randolph, J. (2009) A guide to writing the dissertation literature review. <em>Practical Assessment, Research, and Evaluation 14</em>, Article 13. https://doi.org/10.7275/b0az-8t74
