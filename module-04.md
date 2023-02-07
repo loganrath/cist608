@@ -6,8 +6,8 @@ title: Literature Reviews
 module_description: Writing a literature review is an essential component of any research proposal. This module will prepare you to complete one major section of your proposal.
 
 readings:
-  - title: Video from Dr. Rath (Module 4)
-    url:
+  - title: Video from Dr. Rath (Module 4) (4:50)
+    url: https://youtu.be/DRVt2lmbdBA
     icon: play-circle text-success
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
 
