@@ -7,8 +7,8 @@ dates:
 module_description: Understanding samples and choosing appropriate methods to collect data are key to well done research studies.
 
 readings:
-  - title: "Video from Dr. Rath (Module 5)"
-    url:
+  - title: "Video from Dr. Rath (Module 5) (3:14)"
+    url: https://youtu.be/G--Ow3Y0Zok
     icon: play-circle text-success
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
 
