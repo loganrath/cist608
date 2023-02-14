@@ -58,6 +58,7 @@ activities:
   - title: Proposal Introduction Discussion Board Responses
     icon: comments text-purple
     url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_174705_1&nav=discussion_board_entry&conf_id=_283757_1&forum_id=_613515_1
+    due: February 20 @ 11:59pm
     description: Respond to 2 classmates' submissions. Early in the week you can respond to their post with just your name in order to sign up to review their paper. Then, later in the week, create another discussion board post with feedback. If two people have already claimed someone's post, you need to pick someone else's paper. While you will provide your feedback in a discussion board post, you may also leave specific comments or questions directly on the document.
 
   - title: Proposal Introduction Draft
