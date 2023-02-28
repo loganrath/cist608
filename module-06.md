@@ -7,10 +7,15 @@ dates:
 module_description: This module lasts two weeks and covers basic quantitative research and basic statistical tests. In the first week it is recommended that you watch the overview and lecture videos, and read Sheppard chapters 8-9. In the second week it is recommended that you watch the "Statistics made easy" video, read Sheppard chapter 11 &amp; DeCarlo 12.4 and complete the Excel activities.
 
 readings:
-  - title: "(Week 1) Video from Dr. Rath (Module 6)"
+  - title: "(Week 1) Video from Dr. Rath (Module 6) (5:13)"
     icon: play-circle text-success
-    url:
+    url: https://youtu.be/HPJFtfZnhmE
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
+
+  - title: "(Week 1) Calculation of Correlation from Survey (4:13)"
+    icon: play-circle text-success
+    url: https://youtu.be/Y6EM0hIHLkA
+    description: This is an optional video that shows how I analyzed a few of the questions from the class survey.
 
   - title: "(Week 1) Lecture for Module 6 (9:12)"
     url: https://youtu.be/yw7qS7muKFU
