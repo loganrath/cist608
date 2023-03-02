@@ -33,6 +33,12 @@ readings:
     icon: play-circle text-success
     description: Slides from the above video.
 
+  - title: Exemplar Submissions from Previous Semesters
+    url:  https://livealbany-my.sharepoint.com/:f:/g/personal/lrath_albany_edu/ElDIG8cITF9HvlzXeMitTMcB5PMNo8UZqUIyU-RSuy49IQ?e=jteFNp
+    icon: folder-open text-purple
+    description: These are example final projects that earned either a 99 or 100%.
+
+
 supplementary:
   - title: APA Paper Format
     icon: link text-primary
