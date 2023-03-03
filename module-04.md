@@ -78,6 +78,16 @@ supplementary:
     url: https://libguides.usc.edu/writingguide/literaturereview
     description: A helpful overview of a literature review for the social sciences.
 
+  - title: UOregon How to Synthesize Literature
+    icon: link text-primary
+    url: https://researchguides.uoregon.edu/litreview/synthesize
+    description: This LibGuides explains how to synthesize literature.
+
+  - title: Literature Synthesis Matrix
+    icon: file-pdf text-primary
+    url: https://case.fiu.edu/writingcenter/online-resources/_assets/synthesis-matrix-2.pdf
+    description: This document can help you synthesize literature. This <a href="https://www.youtube.com/watch?time_continue=55&v=_13GGEhi99g&embeds_euri=https%3A%2F%2Flibguides.cmich.edu%2F&source_ve_path=MzY4NDI&feature=emb_logo">YouTube video</a> explains how to fill it out.
+
 activities:
   - title: Group Literature searching
     icon: users text-teal
