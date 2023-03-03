@@ -28,10 +28,15 @@ readings:
     url: https://pressbooks.bccampus.ca/jibcresearchmethods/part/chapter-13-2/
     description: This chapter will give you a general idea of what's involved in your final project.
 
+  - title: Academic Writing
+    url: https://youtu.be/dfpmyHmIqSw
+    icon: play-circle text-success
+    description: A video that shows you some common expectations of academic writing.
+
   - title: Slides for Academic Writing
     url: https://livealbany-my.sharepoint.com/:b:/g/personal/lrath_albany_edu/EbZNTjEJn9RNofLTXPmMDbMByg-UgZ8Yp6dAowI2okR5LA?e=z6k8QO
-    icon: play-circle text-success
-    description: Slides from the above video.
+    icon: file-pdf text-danger
+    description: Slides from the above video
 
   - title: Exemplar Submissions from Previous Semesters
     url:  https://livealbany-my.sharepoint.com/:f:/g/personal/lrath_albany_edu/ElDIG8cITF9HvlzXeMitTMcB5PMNo8UZqUIyU-RSuy49IQ?e=jteFNp
@@ -69,6 +74,11 @@ supplementary:
     icon: link text-primary
     url: https://owl.excelsior.edu/citation-and-documentation/apa-style/
     description: This page will help you cite specific sources. You can also use the APA Style page listed under Course Resources above.
+
+  - title: UOregon How to Synthesize Literature
+    icon: link text-primary
+    url: https://researchguides.uoregon.edu/litreview/synthesize
+    description: This LibGuides explains how to synthesize literature.
 
 activities:
   - title: Research Question
