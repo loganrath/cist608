@@ -101,17 +101,17 @@ activities:
     icon: brands fa-youtube text-danger
     url: https://www.youtube.com/watch?v=pfYhwy3wN14
     description: A quick way to get descriptive statistics in Excel. Includes installation instructions for Windows PCs.
-    due: March 13 @ 11:59pm
+    due: March 20 @ 11:59pm
 
   - title: "Descriptive Statistics Activity"
     icon: file-excel text-success
     url: https://blackboard.albany.edu/webapps/assessment/take/launchAssessment.jsp?course_id=_174705_1&content_id=_7859516_1&mode=cpview
     description: For Data Set 1 - Groups, please calculate the sum, mean, median and mode for each column in the spreadsheet. For Data Set 2 - Grades, please run descriptive statistics using the Excel Data Analysis Toolpak. Watch the video above for exactly what to do.
-    due: March 13 @ 11:59pm
+    due: March 20 @ 11:59pm
 
   - title: Literature Review Draft
     icon: file-word text-primary
     url: https://blackboard.albany.edu/webapps/assignment/uploadAssignment?content_id=_7859515_1&course_id=_174705_1&group_id=&mode=cpview
     description: You will submit your literature review to me. I will give you feedback and then you will re-submit it as an additional attempt.
-    due: March 13 @ 11:59pm
+    due: March 20 @ 11:59pm
 ---
