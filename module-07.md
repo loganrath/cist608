@@ -49,10 +49,4 @@ activities:
     url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_174705_1&nav=discussion_board_entry&conf_id=_283757_1&forum_id=_613445_1
     description: Now you have learned quite a bit about qualitative and quantitative methods. In this discussion board provide your perceptions of each and what type of data collection you might be more interested in doing for your proposal. Respond to at least 3 other classmates.
     due: March 27 @ 11:59pm
-
-  - title: Literature Review
-    icon: file-word text-primary
-    url: https://blackboard.albany.edu/webapps/assignment/uploadAssignment?content_id=_7859515_1&course_id=_174705_1&group_id=&mode=cpview
-    description: You will submit your literature review to me. I will give you feedback and then you will re-submit it as an additional attempt.
-    due: March 27 @ 11:59pm
 ---

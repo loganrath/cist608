@@ -48,6 +48,4 @@ activities:
     url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_174705_1&nav=discussion_board_entry&conf_id=_283757_1&forum_id=_613446_1
     description: Submit a One Drive link (4-5 pages) to your methods section. Your methods section must contain both your methods as well as any appendices (included after your references). You are welcome to use the same link as your other submissions if you want to keep building on the document. The link must be set so that People in University at Albany - SUNY with the link can review.
     due: April 3 @ 11:59pm
-
-
 ---
