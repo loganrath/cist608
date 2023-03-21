@@ -6,8 +6,8 @@ title: Qualitative Research
 module_description: This module covers the basics of qualitative research including methods, data collection, and analysis.
 
 readings:
-  - title: "Video from Dr. Rath (Module 7)"
-    url:
+  - title: "Video from Dr. Rath (Module 7) (7:20)"
+    url: https://youtu.be/RvIx9hBhWIE
     icon: play-circle text-success
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
 
