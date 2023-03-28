@@ -7,8 +7,8 @@ dates:
 module_description: This module finishes up what you need to know about methods as well as locating existing instruments.
 
 readings:
-  - title: "Video from Dr. Rath (Module 8)"
-    url:
+  - title: "Video from Dr. Rath (Module 8) (2:45)"
+    url: https://youtu.be/7BS8VWEy0PI
     icon: play-circle text-success
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
 
