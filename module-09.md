@@ -7,8 +7,8 @@ dates:
 module_description: This module covers unobtrusive research where you do not interact with the subject.
 
 readings:
-  - title: "Video from Dr. Rath (Module 9)"
-    url:
+  - title: "Video from Dr. Rath (Module 9) (2:36)"
+    url: https://youtu.be/ESpFuABuplI
     icon: play-circle text-success
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
 
