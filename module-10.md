@@ -64,8 +64,8 @@ activities:
 
   - title: Showcase Presentation
     icon: file-powerpoint text-primary
-    url:
-    description: This is a placeholder for your showcase presentation.
+    url: https://blackboard.albany.edu/webapps/assignment/uploadAssignment?content_id=_8042219_1&course_id=_174705_1&group_id=&mode=cpview
+    description: Submit proof of your upload to the CEHC Showcase here.
     due: April 24 @ 11:59pm
 
   - title: Final Proposal Submission
