@@ -7,8 +7,8 @@ dates:
 module_description: This module covers some writing tips and tricks.
 
 readings:
-  - title: "Video from Logan (Module 10)"
-    url:
+  - title: "Video from Logan (Module 10) (1:36)"
+    url: https://youtu.be/DRmRbpUp0fc
     icon: play-circle text-success
     description: This is an overview video where I give a high level explanation of the readings and describe this week's tasks.
 
