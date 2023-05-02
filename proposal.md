@@ -111,4 +111,10 @@ activities:
     description: Submit your conclusion to the appropriate discussion board, give feedback to your classmates, and then submit a revised methods section.
     due: May 1 @ 11:59pm
 
+  - title: Final Proposal Submission
+    icon: file-word text-primary
+    url: https://blackboard.albany.edu/webapps/assignment/uploadAssignment?content_id=_8049372_1&course_id=_174705_1&group_id=&mode=cpview
+    description: Your full proposal in APA format will be due.
+    due: May 2 @ 11:59pm
+
 ---
