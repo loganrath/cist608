@@ -51,25 +51,6 @@ supplementary:
 activities:
   - title: Sampling and Variables Discussion Board
     icon: comments text-warning
-    url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_174705_1&nav=discussion_board_entry&conf_id=_283757_1&forum_id=_613443_1
+    url:
     description: Post any questions you have about variables and sampling to the discussion board.
-    due: February 20 @ 11:59pm
-
-  - title: Proposal Introduction Discussion Board Responses
-    icon: comments text-purple
-    url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_174705_1&nav=discussion_board_entry&conf_id=_283757_1&forum_id=_613515_1
-    due: February 20 @ 11:59pm
-    description: Respond to 2 classmates' submissions. Early in the week you can respond to their post with just your name in order to sign up to review their paper. Then, later in the week, create another discussion board post with feedback. If two people have already claimed someone's post, you need to pick someone else's paper. While you will provide your feedback in a discussion board post, you may also leave specific comments or questions directly on the document.
-
-  - title: Proposal Introduction Draft
-    icon: file-word text-primary
-    url: https://blackboard.albany.edu/webapps/assignment/uploadAssignment?content_id=_7859513_1&course_id=_174705_1&group_id=&mode=cpview
-    description: You will submit your introduction to me. I will give you feedback and then you will re-submit it as an additional attempt.
-    due: February 27 @ 11:59pm
-
-  - title: Proposal Literature Review Discussion Board
-    icon: comments text-purple
-    url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_174705_1&nav=discussion_board_entry&conf_id=_283757_1&forum_id=_613516_1
-    description: Submit a One Drive link (4-5 pages) of your literature review. The link must be set so that others at UAlbany can review (but not edit) your document.
-    due: February 27 @ 11:59pm
 ---

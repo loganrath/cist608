@@ -84,13 +84,6 @@ supplementary:
     description: How to run a t-test in Excel with just a formula!
 
 activities:
-
-  - title: Proposal Literature Review Discussion Board Responses
-    icon: comments text-purple
-    url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_174705_1&nav=discussion_board_entry&conf_id=_283757_1&forum_id=_613516_1
-    description: Respond to 2 classmates' submissions. Early in the week you can respond to their post with just your name in order to sign up to review their paper. Then, later in the week, create another discussion board post with feedback. If two people have already claimed someone's post, you need to pick someone else's paper. While you will provide your feedback in a discussion board post, you may also leave specific comments or questions directly on the document.
-    due: March 6 @ 11:59pm
-
   - title: "Walkthrough for Descriptive Statistics Activity (5:12)"
     icon: play-circle text-success
     url: https://youtu.be/9DG-5g8QWbk
@@ -105,13 +98,6 @@ activities:
 
   - title: "Descriptive Statistics Activity"
     icon: file-excel text-success
-    url: https://blackboard.albany.edu/webapps/assessment/take/launchAssessment.jsp?course_id=_174705_1&content_id=_7859516_1&mode=cpview
+    url:
     description: For Data Set 1 - Groups, please calculate the sum, mean, median and mode for each column in the spreadsheet. For Data Set 2 - Grades, please run descriptive statistics using the Excel Data Analysis Toolpak. Watch the video above for exactly what to do.
-    due: March 20 @ 11:59pm
-
-  - title: Literature Review Draft
-    icon: file-word text-primary
-    url: https://blackboard.albany.edu/webapps/assignment/uploadAssignment?content_id=_7859515_1&course_id=_174705_1&group_id=&mode=cpview
-    description: You will submit your literature review to me. I will give you feedback and then you will re-submit it as an additional attempt.
-    due: March 20 @ 11:59pm
 ---

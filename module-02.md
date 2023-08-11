@@ -63,17 +63,14 @@ activities:
     icon: clipboard-question text-primary
     url: https://www.albany.edu/orrc/irb-training.php
     description: "This certificate is required by UA in order to complete human subjects research. You must complete the entire 13 module course, <strong>IRB: Human Subject Research (Investigators, Advisors)</strong>. When finished, upload your certificate to Blackboard."
-    due: January 30 @ 11:59pm
 
   - title: Marginalized Populations Research
     icon: comments text-gold
     url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_174705_1&nav=discussion_board_entry&conf_id=_283757_1&forum_id=_613448_1
     description: You will find an article that deals with doing research with a marginalized community, summarize it (50-100 words) and then explain for everyone how the researchers conducted their study ethically. Then, respond to two classmates.
-    due: January 30 @ 11:59pm
 
   - title: Ask Questions
     icon: person-circle-question text-teal
     description: Please email me (or post to the <a href="https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_170260_1&nav=discussion_board_entry&conf_id=_276906_1&forum_id=_583025_1" target="_blank">Ask a Question discussion board</a>) any questions you have about the research proposal assignment.
-    due: January 30 @ 11:59pm
 
 ---

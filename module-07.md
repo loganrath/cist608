@@ -34,19 +34,13 @@ readings:
 activities:
   - title: Practice Coding
     icon: user-pen text-primary
-    url: https://livealbany-my.sharepoint.com/:w:/g/personal/lrath_albany_edu/ETGbbJS59VBFmoP7MOID3ZoB4aTbCFtkmH-zs0QSL3BoJQ?e=TUwVIm
     description: Practice coding this interview transcript using open, descriptive coding. You will then copy your completed table to the discussion board below.
-    due: March 27 @ 11:59pm
 
   - title: Practice Coding Discussion board
     icon: comments text-warning
-    url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_174705_1&nav=discussion_board_entry&conf_id=_283757_1&forum_id=_613444_1
     description: Write a couple sentences about your thought process as you coded the transcript. Then, paste in your coding so that others can see what codes you applied. There is no wrong answer here. Respond to at least 2 other classmates posts.
-    due: March 27 @ 11:59pm
 
   - title: Qualitative vs. Quantitative Discussion Board
     icon: comments text-warning
-    url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_174705_1&nav=discussion_board_entry&conf_id=_283757_1&forum_id=_613445_1
     description: Now you have learned quite a bit about qualitative and quantitative methods. In this discussion board provide your perceptions of each and what type of data collection you might be more interested in doing for your proposal. Respond to at least 3 other classmates.
-    due: March 27 @ 11:59pm
 ---

@@ -88,29 +88,13 @@ supplementary:
     url: https://case.fiu.edu/writingcenter/online-resources/_assets/synthesis-matrix-2.pdf
     description: This document can help you synthesize literature. This <a href="https://www.youtube.com/watch?time_continue=55&v=_13GGEhi99g&embeds_euri=https%3A%2F%2Flibguides.cmich.edu%2F&source_ve_path=MzY4NDI&feature=emb_logo">YouTube video</a> explains how to fill it out.
 
-activities:
-  - title: Group Literature searching
-    icon: users text-teal
-    url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_174705_1&nav=discussion_board_entry&conf_id=_283757_1&forum_id=_613442_1
-    description: Work in your groups to help each other find the best literature.
-    due: February 11 @ 11:59pm
-
-  - title: Annotated Bibliography
+activities:  
+  - title: Synthesis Matrix
     icon: file-word text-primary
-    url: https://blackboard.albany.edu/webapps/assignment/uploadAssignment?content_id=_7859505_1&course_id=_174705_1&group_id=&mode=cpview
-    description: Submit an annotated bibliography (see video above) from your literature searching. See the assignment handout linked in Blackboard.
-    due: February 13 @ 11:59pm
+    url: https://case.fiu.edu/writingcenter/online-resources/_assets/synthesis-matrix-2.pdf
+    description: Complete a synthesis matrix of at least 6 different scholarly sources.
 
-  - title: Model Paper
-    icon: copy text-primary
-    url: https://blackboard.albany.edu/webapps/assignment/uploadAssignment?content_id=_7859441_1&course_id=_174705_1&group_id=&mode=cpview
-    description: Submit an article you will use as a model for your research proposal. This must be a field study with an introduction, literature review, and methods section.
-    due: February 13 @ 11:59pm
-
-  - title: Proposal Introduction Discussion Board
-    icon: comments text-purple
-    url: https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_174705_1&nav=discussion_board_entry&conf_id=_283757_1&forum_id=_613515_1
-    description: Submit a One Drive link (1-2 pages) of your introduction. The link must be set so that others at UAlbany can review (but not edit) your document.
-    due: February 13 @ 11:59pm
-
----
+  - title: Synthesis Matrix Video
+    icon: play-circle text-success
+    url: https://www.youtube.com/watch?v=_13GGEhi99g
+    description: A YouTube video showing how the synthesis matrix works.

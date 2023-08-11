@@ -84,37 +84,30 @@ activities:
   - title: Research Question
     icon: pen-fancy text-purple
     description: Submit your research question using "Write Submission." See module 3.
-    due: February 6 @ 11:59pm
 
-  - title: Annotated Bibliography
+  - title: Synthesis Matrix
     icon: pen-fancy text-purple
     description: Submit your annotated bibliography as a Word doc. See Module 4.
-    due: February 13 @ 11:59pm
 
   - title: Introduction
     icon: 1 text-purple
     description: Submit your introduction to the appropriate discussion board, give feedback to your classmates, and then submit a revised introduction.
-    due: February 13 @ 11:59pm
 
   - title: Literature Review
     icon: 2 text-purple
     description: Submit your literature review to the appropriate discussion board, give feedback to your classmates, and then submit a revised literature review.
-    due: March 27 @ 11:59pm
 
   - title: Methods section
     icon: 3 text-purple
     description: Submit your methods section to the appropriate discussion board, give feedback to your classmates, and then submit a revised methods section.
-    due: April 24 @ 11:59pm
 
   - title: Conclusion
     icon: 4 text-purple
     description: Submit your conclusion to the appropriate discussion board, give feedback to your classmates, and then submit a revised methods section.
-    due: May 1 @ 11:59pm
 
   - title: Final Proposal Submission
     icon: file-word text-primary
-    url: https://blackboard.albany.edu/webapps/assignment/uploadAssignment?content_id=_8049372_1&course_id=_174705_1&group_id=&mode=cpview
     description: Your full proposal in APA format will be due.
-    due: May 2 @ 11:59pm
+    due: End of Semester
 
 ---
