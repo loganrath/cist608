@@ -9,7 +9,7 @@ module_description: >
 readings:
   - title: "Introduction Video from Logan"
     icon: circle-play text-success
-    url:
+    url: #
     description: This video will introduce you to the layout of the course.
 
   - title: Syllabus: Spring 2023
@@ -19,12 +19,12 @@ readings:
 
   - title: "Syllabus Review Video"
     icon: circle-play text-success
-    url:
+    url: #
     description: This video will go over the syllabus and my expectations.
 
   - title: Proposal Instructions
     icon: file-pdf text-danger
-    url:
+    url: #
     description: This document explains the proposal project that is worth 60% of your final grade in this course.
 
 
@@ -37,7 +37,7 @@ activities:
 
   - title: Quiz
     icon: clipboard-question text-purple
-    url:
+    url: #
     description: There will be a basic quiz via Blackboard for you to complete.
     due: First Week of Class
 
